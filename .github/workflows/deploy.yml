@@ -29,6 +29,9 @@ jobs:
             "cd ${{ secrets.TARGET_DIR }} && \
             git pull origin master && \
             wp db import db/local.sql && \
+            wp search-replace 'https://manateam-wp.ddev.site' 'https://manateam.maurice.webcup.hodi.host' --all-tables && \
+            wp elementor replace_urls 'https://manateam-wp.ddev.site' 'https://manateam.maurice.webcup.hodi.host' && \
+            wp elementor flush_css && \
             wp cache flush"
 
       # ── ❶ Capture last commit title ─────────────────────────────
