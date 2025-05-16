@@ -29,6 +29,7 @@ jobs:
             "cd ${{ secrets.TARGET_DIR }} && \
             git pull origin master && \
             composer install --no-dev --optimize-autoloader && \
+            wp db import 
             wp cache flush"
 
       # ── Notify Slack on Success ──
