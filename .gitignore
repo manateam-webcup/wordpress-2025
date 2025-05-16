@@ -15,11 +15,6 @@
 wp-config.php
 wp-config-sample.php
 
-# Ignore composer files
-vendor/
-/composer.phar
-composer.lock
-
 # Ignore node modules
 node_modules/
 
