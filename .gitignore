@@ -30,7 +30,6 @@ error_log
 debug.log
 
 # Ignore backups and database dumps
-*.sql
 *.zip
 *.tar.gz
 *.rar
