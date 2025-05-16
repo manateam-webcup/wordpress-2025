@@ -1,0 +1,337 @@
+
+---Downloaded files---
+The import files for: Aiero were successfully downloaded!
+Initial max execution time = 6000
+Files info:
+Site URL = https://manateam-wp.ddev.site
+Data file = /var/www/html/wp-content/uploads/2025/05/demo-content-import-file_2025-05-16__19-11-41.xml
+Widget file = /var/www/html/wp-content/uploads/2025/05/demo-widgets-import-file_2025-05-16__19-11-41.json
+Customizer file = /var/www/html/wp-content/uploads/2025/05/demo-customizer-import-file_2025-05-16__19-11-41.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+<div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_aioseo_writing_assistant_posts
+WHERE 1 = 1 AND
+	`post_id` = 7
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_aioseo_writing_assistant_posts`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_aioseo_writing_assistant_posts
+WHERE 1 = 1 AND
+	`post_id` = 12
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_aioseo_writing_assistant_posts`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_aioseo_writing_assistant_posts
+WHERE 1 = 1 AND
+	`post_id` = 8
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_aioseo_writing_assistant_posts`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_aioseo_writing_assistant_posts
+WHERE 1 = 1 AND
+	`post_id` = 9
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_aioseo_writing_assistant_posts`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_aioseo_writing_assistant_posts
+WHERE 1 = 1 AND
+	`post_id` = 10
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_aioseo_writing_assistant_posts`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_aioseo_writing_assistant_posts
+WHERE 1 = 1 AND
+	`post_id` = 1
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_aioseo_writing_assistant_posts`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_aioseo_writing_assistant_posts
+WHERE 1 = 1 AND
+	`post_id` = 2
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;db.wp_aioseo_writing_assistant_posts&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_aioseo_writing_assistant_posts`</code></p></div>
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "09_Team 1-min" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Post Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Service Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+FAQ Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Side Panel Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Menu Sidebar : 
+
+Block - No Title - Imported
+
+Pre Footer Sidebar : 
+
+Block - No Title - Imported
+
+Footer Sidebar (Style 1) : 
+
+Block - No Title - Imported
+Navigation Menu (Aiero Theme) - Company - Imported
+Navigation Menu (Aiero Theme) - Services - Imported
+
+Footer Sidebar (Style 3) : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Sidebar (Style 4) : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Navigation Menu (Aiero Theme) - Company - Imported
+Navigation Menu (Aiero Theme) - Services - Imported
+
+Footer Sidebar (Style 6) : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Navigation Menu (Aiero Theme) - Company - Imported
+Navigation Menu (Aiero Theme) - Services - Imported
+
+Sidebar WooCommerce : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Products list - Best products - Imported
+Block - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

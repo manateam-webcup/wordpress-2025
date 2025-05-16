@@ -1,0 +1,4469 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Artureanec WP\n"
+"POT-Creation-Date: 2025-05-07 19:06+0300\n"
+"PO-Revision-Date: 2016-01-26 20:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Artureanec <artureanec@ya.ru>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: aiero-plugin.php:48 aiero-plugin.php:59
+msgid "Project Categories"
+msgstr ""
+
+#: aiero-plugin.php:49
+msgid "Project Category"
+msgstr ""
+
+#: aiero-plugin.php:50 aiero-plugin.php:155 aiero-plugin.php:231
+msgid "Search Category"
+msgstr ""
+
+#: aiero-plugin.php:51
+msgid "All Project Categories"
+msgstr ""
+
+#: aiero-plugin.php:52 aiero-plugin.php:157 aiero-plugin.php:233
+msgid "View Category"
+msgstr ""
+
+#: aiero-plugin.php:53 aiero-plugin.php:158 aiero-plugin.php:234
+msgid "Parent Category"
+msgstr ""
+
+#: aiero-plugin.php:54 aiero-plugin.php:159 aiero-plugin.php:235
+msgid "Parent Category:"
+msgstr ""
+
+#: aiero-plugin.php:55 aiero-plugin.php:160 aiero-plugin.php:236
+msgid "Edit Category"
+msgstr ""
+
+#: aiero-plugin.php:56 aiero-plugin.php:161 aiero-plugin.php:237
+msgid "Update Category"
+msgstr ""
+
+#: aiero-plugin.php:57 aiero-plugin.php:162 aiero-plugin.php:238
+msgid "Add New Category"
+msgstr ""
+
+#: aiero-plugin.php:58
+msgid "New Project Category"
+msgstr ""
+
+#: aiero-plugin.php:70 aiero-plugin.php:78
+msgid "Projects"
+msgstr ""
+
+#: aiero-plugin.php:71
+msgid "Project"
+msgstr ""
+
+#: aiero-plugin.php:72
+msgid "Search Project"
+msgstr ""
+
+#: aiero-plugin.php:73
+msgid "All Projects"
+msgstr ""
+
+#: aiero-plugin.php:74
+msgid "View Project"
+msgstr ""
+
+#: aiero-plugin.php:75
+msgid "Edit Project"
+msgstr ""
+
+#: aiero-plugin.php:76
+msgid "Add New Project"
+msgstr ""
+
+#: aiero-plugin.php:77
+msgid "New Project"
+msgstr ""
+
+#: aiero-plugin.php:101 aiero-plugin.php:112
+msgid "Departments"
+msgstr ""
+
+#: aiero-plugin.php:102 elements/team-members.php:122
+msgid "Department"
+msgstr ""
+
+#: aiero-plugin.php:103
+msgid "Search Departments"
+msgstr ""
+
+#: aiero-plugin.php:104
+msgid "All Departments"
+msgstr ""
+
+#: aiero-plugin.php:105
+msgid "View Department"
+msgstr ""
+
+#: aiero-plugin.php:106
+msgid "Parent Department"
+msgstr ""
+
+#: aiero-plugin.php:107
+msgid "Parent Department:"
+msgstr ""
+
+#: aiero-plugin.php:108
+msgid "Edit Department"
+msgstr ""
+
+#: aiero-plugin.php:109
+msgid "Update Department"
+msgstr ""
+
+#: aiero-plugin.php:110
+msgid "Add New Department"
+msgstr ""
+
+#: aiero-plugin.php:111
+msgid "New Department Name"
+msgstr ""
+
+#: aiero-plugin.php:122 elements/team-members.php:29
+#: elements/team-members.php:52
+msgid "Team Members"
+msgstr ""
+
+#: aiero-plugin.php:123
+msgid "Team Member"
+msgstr ""
+
+#: aiero-plugin.php:124
+msgid "Search Team Member"
+msgstr ""
+
+#: aiero-plugin.php:125
+msgid "All Team Members"
+msgstr ""
+
+#: aiero-plugin.php:126
+msgid "View Team Member"
+msgstr ""
+
+#: aiero-plugin.php:127
+msgid "Edit Team Member"
+msgstr ""
+
+#: aiero-plugin.php:128
+msgid "Add New Member"
+msgstr ""
+
+#: aiero-plugin.php:129
+msgid "New Team Member"
+msgstr ""
+
+#: aiero-plugin.php:130
+msgid "Team"
+msgstr ""
+
+#: aiero-plugin.php:153
+msgid "Service Categories"
+msgstr ""
+
+#: aiero-plugin.php:154
+msgid "Service Category"
+msgstr ""
+
+#: aiero-plugin.php:156 aiero-plugin.php:232
+msgid "All Categories"
+msgstr ""
+
+#: aiero-plugin.php:163 aiero-plugin.php:239
+msgid "New Category Name"
+msgstr ""
+
+#: aiero-plugin.php:164 aiero-plugin.php:240 elements/blog.php:134
+#: elements/blog.php:207 elements/case-study-listing.php:140
+#: elements/products.php:158 elements/projects-listing.php:294
+#: elements/services-listing.php:223 elements/team-members.php:132
+msgid "Categories"
+msgstr ""
+
+#: aiero-plugin.php:176
+msgid "Service Tags"
+msgstr ""
+
+#: aiero-plugin.php:177
+msgid "Service Tag"
+msgstr ""
+
+#: aiero-plugin.php:178 aiero-plugin.php:255
+msgid "Search Tag"
+msgstr ""
+
+#: aiero-plugin.php:179 aiero-plugin.php:256
+msgid "All Tags"
+msgstr ""
+
+#: aiero-plugin.php:180 aiero-plugin.php:257
+msgid "View Tag"
+msgstr ""
+
+#: aiero-plugin.php:181 aiero-plugin.php:258
+msgid "Parent Tag"
+msgstr ""
+
+#: aiero-plugin.php:182 aiero-plugin.php:259
+msgid "Parent Tag:"
+msgstr ""
+
+#: aiero-plugin.php:183 aiero-plugin.php:260
+msgid "Edit Tag"
+msgstr ""
+
+#: aiero-plugin.php:184 aiero-plugin.php:261
+msgid "Update Tag"
+msgstr ""
+
+#: aiero-plugin.php:185 aiero-plugin.php:262
+msgid "Add New Tag"
+msgstr ""
+
+#: aiero-plugin.php:186 aiero-plugin.php:263
+msgid "New Tag Name"
+msgstr ""
+
+#: aiero-plugin.php:187 aiero-plugin.php:264 elements/blog.php:149
+#: elements/blog.php:259 elements/case-study-listing.php:193
+#: elements/products.php:181
+msgid "Tags"
+msgstr ""
+
+#: aiero-plugin.php:198 aiero-plugin.php:206
+msgid "Services"
+msgstr ""
+
+#: aiero-plugin.php:199
+msgid "Service"
+msgstr ""
+
+#: aiero-plugin.php:200
+msgid "Search Service"
+msgstr ""
+
+#: aiero-plugin.php:201
+msgid "All Services"
+msgstr ""
+
+#: aiero-plugin.php:202
+msgid "View Service"
+msgstr ""
+
+#: aiero-plugin.php:203
+msgid "Edit Service"
+msgstr ""
+
+#: aiero-plugin.php:204
+msgid "Add New Service"
+msgstr ""
+
+#: aiero-plugin.php:205
+msgid "New Service"
+msgstr ""
+
+#: aiero-plugin.php:229
+msgid "Case Study Categories"
+msgstr ""
+
+#: aiero-plugin.php:230
+msgid "Case Study Category"
+msgstr ""
+
+#: aiero-plugin.php:253
+msgid "Case Study Tags"
+msgstr ""
+
+#: aiero-plugin.php:254
+msgid "Case Study Tag"
+msgstr ""
+
+#: aiero-plugin.php:275 aiero-plugin.php:283
+msgid "Case Studies"
+msgstr ""
+
+#: aiero-plugin.php:276
+msgid "Case Study"
+msgstr ""
+
+#: aiero-plugin.php:277
+msgid "Search Case Studies"
+msgstr ""
+
+#: aiero-plugin.php:278
+msgid "All Case Studies"
+msgstr ""
+
+#: aiero-plugin.php:279
+msgid "View Case Study"
+msgstr ""
+
+#: aiero-plugin.php:280
+msgid "Edit Case Study"
+msgstr ""
+
+#: aiero-plugin.php:281
+msgid "Add New Case Study"
+msgstr ""
+
+#: aiero-plugin.php:282
+msgid "New Case Study"
+msgstr ""
+
+#: aiero-plugin.php:355
+msgid "Theme Icons"
+msgstr ""
+
+#: aiero-plugin.php:383
+msgid "Theme Fonts"
+msgstr ""
+
+#: aiero-plugin.php:406
+msgid "Slide Aslant"
+msgstr ""
+
+#: aiero-plugin.php:443
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: aiero-plugin.php:444 aiero-plugin.php:454
+msgid "Restbeef Core"
+msgstr ""
+
+#: aiero-plugin.php:445 aiero-plugin.php:455
+msgid "Elementor"
+msgstr ""
+
+#: aiero-plugin.php:453 aiero-plugin.php:464
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: aiero-plugin.php:465
+msgid "Press Elements"
+msgstr ""
+
+#: aiero-plugin.php:466
+msgid "PHP"
+msgstr ""
+
+#: aiero-plugin.php:477
+msgid "Aiero Widgets"
+msgstr ""
+
+#: aiero-plugin.php:585
+msgid "Accordion Style"
+msgstr ""
+
+#: aiero-plugin.php:589 aiero-plugin.php:710 aiero-plugin.php:872
+#: aiero-plugin.php:1085 aiero-plugin.php:1726 elements/button.php:63
+#: elements/content-slider.php:1357 elements/gallery.php:197
+#: elements/heading.php:167 elements/heading.php:299
+#: elements/moving-list.php:299 elements/price-item.php:73
+#: elements/projects-listing.php:84 elements/services-listing.php:77
+#: elements/services-listing.php:356 elements/services-listing.php:659
+#: elements/special-text.php:59
+msgid "Default"
+msgstr ""
+
+#: aiero-plugin.php:590
+msgid "Counter"
+msgstr ""
+
+#: aiero-plugin.php:601 elements/custom-menu.php:102 elements/heading.php:137
+#: elements/services-listing.php:252 elements/special-text.php:98
+#: elements/step-carousel.php:218
+msgid "Alignment"
+msgstr ""
+
+#: aiero-plugin.php:605 aiero-plugin.php:1462 elements/audio-listing.php:153
+#: elements/blog.php:1325 elements/button.php:101 elements/button.php:139
+#: elements/content-slider.php:380 elements/content-slider.php:410
+#: elements/content-slider.php:437 elements/content-slider.php:1865
+#: elements/content-slider.php:2278 elements/custom-menu.php:106
+#: elements/gallery.php:319 elements/heading.php:141 elements/icon-box.php:103
+#: elements/icon-box.php:160 elements/image-carousel.php:137
+#: elements/image-carousel.php:553 elements/products.php:613
+#: elements/projects-listing.php:180 elements/projects-listing.php:648
+#: elements/projects-listing.php:2689 elements/services-listing.php:157
+#: elements/services-listing.php:256 elements/services-listing.php:372
+#: elements/services-listing.php:407 elements/special-text.php:102
+#: elements/special-text.php:277 elements/step-carousel.php:143
+#: elements/step-carousel.php:222 elements/tabs.php:154 elements/tabs.php:224
+#: elements/tabs.php:280 elements/tabs.php:596
+#: elements/testimonial-carousel.php:180 elements/testimonial-carousel.php:209
+#: elements/testimonial-carousel.php:331 elements/video-button.php:224
+#: elements/wpforms.php:122
+msgid "Left"
+msgstr ""
+
+#: aiero-plugin.php:609 aiero-plugin.php:1466 elements/blog.php:1329
+#: elements/button.php:105 elements/content-slider.php:384
+#: elements/content-slider.php:414 elements/content-slider.php:441
+#: elements/content-slider.php:469 elements/content-slider.php:506
+#: elements/content-slider.php:531 elements/content-slider.php:583
+#: elements/content-slider.php:1779 elements/content-slider.php:1869
+#: elements/content-slider.php:2300 elements/custom-menu.php:110
+#: elements/gallery.php:323 elements/heading.php:145 elements/icon-box.php:164
+#: elements/image-carousel.php:141 elements/image-carousel.php:513
+#: elements/image-carousel.php:557 elements/products.php:617
+#: elements/projects-listing.php:184 elements/projects-listing.php:652
+#: elements/projects-listing.php:2693 elements/services-listing.php:161
+#: elements/services-listing.php:260 elements/services-listing.php:411
+#: elements/services-listing.php:478 elements/special-text.php:106
+#: elements/step-carousel.php:147 elements/step-carousel.php:226
+#: elements/tabs.php:158 elements/tabs.php:228 elements/tabs.php:258
+#: elements/tabs.php:284 elements/testimonial-carousel.php:184
+#: elements/testimonial-carousel.php:213 elements/testimonial-carousel.php:335
+#: elements/video-button.php:228 elements/wpforms.php:126
+msgid "Center"
+msgstr ""
+
+#: aiero-plugin.php:613 aiero-plugin.php:1470 elements/audio-listing.php:157
+#: elements/blog.php:1333 elements/button.php:109 elements/button.php:147
+#: elements/content-slider.php:388 elements/content-slider.php:418
+#: elements/content-slider.php:445 elements/content-slider.php:1873
+#: elements/content-slider.php:2279 elements/custom-menu.php:114
+#: elements/gallery.php:327 elements/heading.php:149 elements/icon-box.php:111
+#: elements/icon-box.php:168 elements/image-carousel.php:145
+#: elements/image-carousel.php:561 elements/products.php:621
+#: elements/projects-listing.php:188 elements/projects-listing.php:656
+#: elements/projects-listing.php:2697 elements/services-listing.php:165
+#: elements/services-listing.php:264 elements/services-listing.php:380
+#: elements/services-listing.php:415 elements/special-text.php:110
+#: elements/special-text.php:278 elements/step-carousel.php:151
+#: elements/step-carousel.php:230 elements/tabs.php:162 elements/tabs.php:232
+#: elements/tabs.php:288 elements/testimonial-carousel.php:188
+#: elements/testimonial-carousel.php:217 elements/testimonial-carousel.php:339
+#: elements/video-button.php:232 elements/wpforms.php:130
+msgid "Right"
+msgstr ""
+
+#: aiero-plugin.php:628
+msgid "Icon Wrapper Background Color"
+msgstr ""
+
+#: aiero-plugin.php:647 aiero-plugin.php:1136 elements/button.php:189
+#: elements/case-study-listing.php:832 elements/content-slider.php:1261
+#: elements/icon-box.php:689 elements/price-item.php:311
+#: elements/price-item.php:787 elements/projects-listing.php:2430
+#: elements/services-listing.php:976 elements/services-listing.php:1636
+#: elements/step-carousel.php:540
+msgid "Border Width"
+msgstr ""
+
+#: aiero-plugin.php:669 elements/tabs.php:190
+msgid "Space Between Tabs"
+msgstr ""
+
+#: aiero-plugin.php:691
+msgid "Tabs Border Color"
+msgstr ""
+
+#: aiero-plugin.php:707
+msgid "Background Clip"
+msgstr ""
+
+#: aiero-plugin.php:726
+msgid "Parallax Effect"
+msgstr ""
+
+#: aiero-plugin.php:728 aiero-plugin.php:739 aiero-plugin.php:770
+#: aiero-plugin.php:785 aiero-plugin.php:804 aiero-plugin.php:823
+#: aiero-plugin.php:840 aiero-plugin.php:854 aiero-plugin.php:1880
+msgid "On"
+msgstr ""
+
+#: aiero-plugin.php:729 aiero-plugin.php:740 aiero-plugin.php:771
+#: aiero-plugin.php:786 aiero-plugin.php:805 aiero-plugin.php:824
+#: aiero-plugin.php:841 aiero-plugin.php:855 aiero-plugin.php:1881
+#: elements/team-members.php:63
+msgid "Off"
+msgstr ""
+
+#: aiero-plugin.php:737
+msgid "Add Flowmap Animation"
+msgstr ""
+
+#: aiero-plugin.php:748
+msgid "Flowmap Image"
+msgstr ""
+
+#: aiero-plugin.php:768
+msgid "Hide on Tablet"
+msgstr ""
+
+#: aiero-plugin.php:783
+msgid "Hide on Mobile"
+msgstr ""
+
+#: aiero-plugin.php:801 aiero-plugin.php:820
+msgid "Remove Container Padding"
+msgstr ""
+
+#: aiero-plugin.php:802
+msgid "Container paddings are added to no gap stretched section`s container"
+msgstr ""
+
+#: aiero-plugin.php:821
+msgid "Container paddings are added to inner section container in stretched parent section with no gap"
+msgstr ""
+
+#: aiero-plugin.php:838
+msgid "Fit Column Height"
+msgstr ""
+
+#: aiero-plugin.php:852 aiero-plugin.php:1069
+msgid "Add Scroll Animation"
+msgstr ""
+
+#: aiero-plugin.php:868
+msgid "Overflow"
+msgstr ""
+
+#: aiero-plugin.php:873 aiero-plugin.php:1086 elements/moving-list.php:300
+msgid "Hidden"
+msgstr ""
+
+#: aiero-plugin.php:886
+msgid "Column Backdrop Blur Filter, px"
+msgstr ""
+
+#: aiero-plugin.php:906
+msgid "Blockquote Icon Color"
+msgstr ""
+
+#: aiero-plugin.php:922
+msgid "Icon Background"
+msgstr ""
+
+#: aiero-plugin.php:933 elements/icon-box.php:574
+msgid "Icon Border Radius"
+msgstr ""
+
+#: aiero-plugin.php:945
+msgid "Icon Padding"
+msgstr ""
+
+#: aiero-plugin.php:960 elements/button.php:123 elements/video-button.php:260
+msgid "Add Decoration"
+msgstr ""
+
+#: aiero-plugin.php:964 aiero-plugin.php:1071 elements/audio-listing.php:140
+#: elements/button.php:127 elements/button.php:508
+#: elements/case-study-listing.php:1080 elements/content-slider.php:87
+#: elements/content-slider.php:355 elements/content-slider.php:367
+#: elements/content-slider.php:567 elements/content-slider.php:674
+#: elements/content-slider.php:826 elements/content-slider.php:1244
+#: elements/content-slider.php:1344 elements/content-slider.php:1851
+#: elements/content-slider.php:2125 elements/content-slider.php:2245
+#: elements/content-slider.php:2328 elements/content-slider.php:2354
+#: elements/content-slider.php:2368 elements/content-slider.php:2407
+#: elements/custom-menu.php:80 elements/gallery.php:199
+#: elements/gallery.php:293 elements/gallery.php:305 elements/gallery.php:359
+#: elements/gallery.php:373 elements/gallery.php:413 elements/heading.php:78
+#: elements/heading.php:104 elements/heading.php:269 elements/icon-box.php:297
+#: elements/image-carousel.php:91 elements/image-carousel.php:239
+#: elements/image-carousel.php:260 elements/image-carousel.php:272
+#: elements/image-carousel.php:311 elements/price-item.php:84
+#: elements/price-item.php:200 elements/price-item.php:1028
+#: elements/projects-listing.php:127 elements/projects-listing.php:208
+#: elements/projects-listing.php:547 elements/projects-listing.php:559
+#: elements/projects-listing.php:580 elements/projects-listing.php:592
+#: elements/projects-listing.php:631 elements/projects-listing.php:2104
+#: elements/projects-listing.php:2413 elements/services-listing.php:104
+#: elements/services-listing.php:541 elements/services-listing.php:553
+#: elements/services-listing.php:578 elements/services-listing.php:592
+#: elements/services-listing.php:632 elements/services-listing.php:1889
+#: elements/special-text.php:250 elements/step-carousel.php:97
+#: elements/step-carousel.php:292 elements/step-carousel.php:304
+#: elements/step-carousel.php:329 elements/step-carousel.php:343
+#: elements/step-carousel.php:383 elements/tabs.php:383
+#: elements/testimonial-carousel.php:154 elements/testimonial-carousel.php:166
+#: elements/testimonial-carousel.php:249 elements/testimonial-carousel.php:263
+#: elements/testimonial-carousel.php:303 elements/video-button.php:252
+#: elements/video-button.php:264 elements/video-button.php:549
+#: elements/wpforms.php:98 elements/wpforms.php:109
+msgid "No"
+msgstr ""
+
+#: aiero-plugin.php:965 aiero-plugin.php:1072 elements/audio-listing.php:141
+#: elements/button.php:128 elements/button.php:509
+#: elements/case-study-listing.php:1081 elements/content-slider.php:88
+#: elements/content-slider.php:354 elements/content-slider.php:366
+#: elements/content-slider.php:568 elements/content-slider.php:675
+#: elements/content-slider.php:827 elements/content-slider.php:1245
+#: elements/content-slider.php:1345 elements/content-slider.php:1852
+#: elements/content-slider.php:2126 elements/content-slider.php:2246
+#: elements/content-slider.php:2329 elements/content-slider.php:2353
+#: elements/content-slider.php:2367 elements/content-slider.php:2406
+#: elements/custom-menu.php:81 elements/gallery.php:198
+#: elements/gallery.php:294 elements/gallery.php:306 elements/gallery.php:358
+#: elements/gallery.php:372 elements/gallery.php:412 elements/heading.php:79
+#: elements/heading.php:105 elements/heading.php:270 elements/icon-box.php:298
+#: elements/image-carousel.php:92 elements/image-carousel.php:240
+#: elements/image-carousel.php:261 elements/image-carousel.php:273
+#: elements/image-carousel.php:312 elements/price-item.php:85
+#: elements/price-item.php:201 elements/price-item.php:1029
+#: elements/projects-listing.php:128 elements/projects-listing.php:209
+#: elements/projects-listing.php:548 elements/projects-listing.php:560
+#: elements/projects-listing.php:581 elements/projects-listing.php:593
+#: elements/projects-listing.php:632 elements/projects-listing.php:2105
+#: elements/projects-listing.php:2414 elements/services-listing.php:105
+#: elements/services-listing.php:542 elements/services-listing.php:554
+#: elements/services-listing.php:577 elements/services-listing.php:591
+#: elements/services-listing.php:631 elements/services-listing.php:1890
+#: elements/special-text.php:249 elements/step-carousel.php:98
+#: elements/step-carousel.php:293 elements/step-carousel.php:305
+#: elements/step-carousel.php:328 elements/step-carousel.php:342
+#: elements/step-carousel.php:382 elements/tabs.php:384
+#: elements/testimonial-carousel.php:155 elements/testimonial-carousel.php:167
+#: elements/testimonial-carousel.php:248 elements/testimonial-carousel.php:262
+#: elements/testimonial-carousel.php:302 elements/video-button.php:253
+#: elements/video-button.php:265 elements/video-button.php:550
+#: elements/wpforms.php:99 elements/wpforms.php:110
+msgid "Yes"
+msgstr ""
+
+#: aiero-plugin.php:977
+msgid "Icon Wrapper Padding"
+msgstr ""
+
+#: aiero-plugin.php:992
+msgid "Icon Wrapper Border Radius"
+msgstr ""
+
+#: aiero-plugin.php:1009
+msgid "Show hover text"
+msgstr ""
+
+#: aiero-plugin.php:1011 aiero-plugin.php:1242 elements/blog.php:209
+#: elements/blog.php:222 elements/blog.php:237 elements/blog.php:249
+#: elements/blog.php:261 elements/blog.php:276 elements/blog.php:288
+#: elements/blog.php:313 elements/blog.php:342
+#: elements/case-study-listing.php:171 elements/case-study-listing.php:183
+#: elements/case-study-listing.php:195 elements/case-study-listing.php:207
+#: elements/case-study-listing.php:219 elements/case-study-listing.php:234
+#: elements/case-study-listing.php:263 elements/content-slider.php:244
+#: elements/content-slider.php:1528 elements/content-slider.php:2009
+#: elements/gallery.php:161 elements/gallery.php:426
+#: elements/image-carousel.php:326 elements/products.php:106
+#: elements/projects-listing.php:325 elements/projects-listing.php:342
+#: elements/services-listing.php:294 elements/services-listing.php:309
+#: elements/services-listing.php:338 elements/team-members.php:163
+#: elements/video-button.php:197
+msgid "Hide"
+msgstr ""
+
+#: aiero-plugin.php:1012 aiero-plugin.php:1243 elements/blog.php:210
+#: elements/blog.php:223 elements/blog.php:238 elements/blog.php:250
+#: elements/blog.php:262 elements/blog.php:277 elements/blog.php:289
+#: elements/blog.php:314 elements/blog.php:343
+#: elements/case-study-listing.php:172 elements/case-study-listing.php:184
+#: elements/case-study-listing.php:196 elements/case-study-listing.php:208
+#: elements/case-study-listing.php:220 elements/case-study-listing.php:235
+#: elements/case-study-listing.php:264 elements/content-slider.php:245
+#: elements/content-slider.php:1529 elements/content-slider.php:2008
+#: elements/gallery.php:162 elements/gallery.php:427
+#: elements/image-carousel.php:327 elements/products.php:107
+#: elements/projects-listing.php:326 elements/projects-listing.php:343
+#: elements/services-listing.php:295 elements/services-listing.php:310
+#: elements/services-listing.php:339 elements/team-members.php:164
+#: elements/video-button.php:198
+msgid "Show"
+msgstr ""
+
+#: aiero-plugin.php:1020 elements/awards.php:69 elements/content-slider.php:835
+msgid "Subtitle"
+msgstr ""
+
+#: aiero-plugin.php:1031 elements/audio-listing.php:113 elements/awards.php:80
+#: elements/blog.php:274 elements/content-slider.php:727
+#: elements/content-slider.php:734 elements/content-slider.php:738
+#: elements/gallery.php:95 elements/icon-box.php:273
+#: elements/image-carousel.php:79 elements/image-carousel.php:179
+#: elements/mailchimp.php:63 elements/moving-list.php:62
+#: elements/price-item.php:94 elements/products.php:125
+#: elements/projects-listing.php:112 elements/services-listing.php:89
+#: elements/step-carousel.php:85 elements/step-carousel.php:186
+#: elements/wpforms.php:63
+msgid "Title"
+msgstr ""
+
+#: aiero-plugin.php:1042
+msgid "Hover Text Color"
+msgstr ""
+
+#: aiero-plugin.php:1055
+msgid "Hover Text Background Color"
+msgstr ""
+
+#: aiero-plugin.php:1081
+msgid "Image Overflow"
+msgstr ""
+
+#: aiero-plugin.php:1099
+msgid "Image Padding"
+msgstr ""
+
+#: aiero-plugin.php:1111
+msgid "Image Box Border Radius"
+msgstr ""
+
+#: aiero-plugin.php:1123
+msgid "Image Background Color"
+msgstr ""
+
+#: aiero-plugin.php:1147 elements/awards.php:237 elements/icon-box.php:700
+#: elements/price-item.php:324 elements/services-listing.php:1038
+#: elements/services-listing.php:1082 elements/step-carousel.php:561
+msgid "Border Color"
+msgstr ""
+
+#: aiero-plugin.php:1158 elements/icon-box.php:711
+#: elements/services-listing.php:990
+msgid "Border Spacing"
+msgstr ""
+
+#: aiero-plugin.php:1177
+msgid "Title Gap"
+msgstr ""
+
+#: aiero-plugin.php:1192
+msgid "Counter Backdrop Blur Filter, px"
+msgstr ""
+
+#: aiero-plugin.php:1215
+msgid "Text Stroke Gradient"
+msgstr ""
+
+#: aiero-plugin.php:1226
+msgid "Number Padding"
+msgstr ""
+
+#: aiero-plugin.php:1240
+msgid "Color Overlay"
+msgstr ""
+
+#: aiero-plugin.php:1265 aiero-plugin.php:1329 aiero-plugin.php:1511
+#: aiero-plugin.php:1644 aiero-plugin.php:1815 aiero-plugin.php:1991
+#: aiero-plugin.php:2073 elements/audio-listing.php:279 elements/awards.php:277
+#: elements/blog.php:538 elements/blog.php:735 elements/blog.php:964
+#: elements/blog.php:1101 elements/blog.php:1149 elements/blog.php:1262
+#: elements/blog.php:1387 elements/blog.php:1606 elements/button.php:256
+#: elements/case-study-listing.php:335 elements/case-study-listing.php:517
+#: elements/case-study-listing.php:696 elements/case-study-listing.php:878
+#: elements/case-study-listing.php:1179 elements/content-slider.php:2619
+#: elements/content-slider.php:2712 elements/custom-menu.php:155
+#: elements/gallery.php:526 elements/gallery.php:646 elements/gallery.php:780
+#: elements/gallery.php:837 elements/icon-box.php:218 elements/icon-box.php:427
+#: elements/image-carousel.php:576 elements/image-carousel.php:777
+#: elements/image-carousel.php:977 elements/image-carousel.php:1064
+#: elements/mailchimp.php:221 elements/mailchimp.php:509
+#: elements/moving-list.php:107 elements/moving-list.php:368
+#: elements/nav-menu.php:112 elements/price-item.php:673
+#: elements/price-item.php:833 elements/products.php:236
+#: elements/products.php:306 elements/products.php:453
+#: elements/products.php:678 elements/projects-listing.php:746
+#: elements/projects-listing.php:1201 elements/projects-listing.php:1368
+#: elements/projects-listing.php:1691 elements/projects-listing.php:1913
+#: elements/projects-listing.php:2217 elements/projects-listing.php:2492
+#: elements/projects-listing.php:2610 elements/projects-listing.php:2750
+#: elements/services-listing.php:1031 elements/services-listing.php:1206
+#: elements/services-listing.php:1360 elements/services-listing.php:1694
+#: elements/services-listing.php:1979 elements/services-listing.php:2191
+#: elements/services-listing.php:2312 elements/step-carousel.php:877
+#: elements/step-carousel.php:998 elements/tabs.php:411
+#: elements/team-members.php:409 elements/team-members.php:505
+#: elements/team-members.php:608 elements/testimonial-carousel.php:541
+#: elements/testimonial-carousel.php:613 elements/video-button.php:389
+#: elements/wpforms.php:684
+msgid "Normal"
+msgstr ""
+
+#: aiero-plugin.php:1280 aiero-plugin.php:1381 elements/image-carousel.php:784
+#: elements/image-carousel.php:818 elements/special-text.php:225
+msgid "Opacity"
+msgstr ""
+
+#: aiero-plugin.php:1326
+msgid "Blend Mode"
+msgstr ""
+
+#: aiero-plugin.php:1366 aiero-plugin.php:1565 aiero-plugin.php:1846
+#: elements/audio-listing.php:327 elements/awards.php:300 elements/blog.php:586
+#: elements/blog.php:761 elements/blog.php:984 elements/blog.php:1122
+#: elements/blog.php:1170 elements/blog.php:1283 elements/blog.php:1639
+#: elements/button.php:387 elements/case-study-listing.php:365
+#: elements/case-study-listing.php:542 elements/case-study-listing.php:751
+#: elements/case-study-listing.php:974 elements/content-slider.php:2736
+#: elements/custom-menu.php:178 elements/gallery.php:662
+#: elements/gallery.php:871 elements/icon-box.php:245 elements/icon-box.php:495
+#: elements/image-carousel.php:613 elements/image-carousel.php:811
+#: elements/image-carousel.php:1011 elements/mailchimp.php:601
+#: elements/moving-list.php:130 elements/moving-list.php:391
+#: elements/nav-menu.php:135 elements/price-item.php:929
+#: elements/products.php:257 elements/products.php:330
+#: elements/products.php:504 elements/projects-listing.php:1217
+#: elements/projects-listing.php:1404 elements/projects-listing.php:1774
+#: elements/projects-listing.php:2005 elements/projects-listing.php:2314
+#: elements/projects-listing.php:2633 elements/services-listing.php:1075
+#: elements/services-listing.php:1228 elements/services-listing.php:1483
+#: elements/services-listing.php:1790 elements/services-listing.php:2335
+#: elements/step-carousel.php:1021 elements/tabs.php:523
+#: elements/team-members.php:428 elements/team-members.php:529
+#: elements/testimonial-carousel.php:636 elements/video-button.php:468
+#: elements/wpforms.php:787
+msgid "Hover"
+msgstr ""
+
+#: aiero-plugin.php:1412 elements/image-carousel.php:844
+msgid "Transition Duration"
+msgstr ""
+
+#: aiero-plugin.php:1436
+msgid "Video Max Width"
+msgstr ""
+
+#: aiero-plugin.php:1458
+msgid "Video Position"
+msgstr ""
+
+#: aiero-plugin.php:1518 aiero-plugin.php:1572 elements/gallery.php:844
+#: elements/gallery.php:878 elements/projects-listing.php:2617
+#: elements/projects-listing.php:2640 elements/services-listing.php:2319
+#: elements/services-listing.php:2342 elements/step-carousel.php:1005
+#: elements/step-carousel.php:1028 elements/testimonial-carousel.php:620
+#: elements/testimonial-carousel.php:643
+msgid "Slider Arrows Color"
+msgstr ""
+
+#: aiero-plugin.php:1529 aiero-plugin.php:1583
+#: elements/projects-listing.php:2568 elements/services-listing.php:2267
+#: elements/step-carousel.php:953
+msgid "Slider Arrows Border"
+msgstr ""
+
+#: aiero-plugin.php:1540 aiero-plugin.php:1594
+#: elements/projects-listing.php:2537 elements/services-listing.php:2236
+#: elements/step-carousel.php:922
+msgid "Slider Arrows Background"
+msgstr ""
+
+#: aiero-plugin.php:1552 aiero-plugin.php:1606 elements/audio-listing.php:318
+#: elements/audio-listing.php:367 elements/image-carousel.php:604
+#: elements/image-carousel.php:641
+msgid "Box Shadow"
+msgstr ""
+
+#: aiero-plugin.php:1619
+msgid "Dots"
+msgstr ""
+
+#: aiero-plugin.php:1651 elements/content-slider.php:2626
+#: elements/gallery.php:787 elements/image-carousel.php:1071
+#: elements/projects-listing.php:2499 elements/services-listing.php:2198
+#: elements/step-carousel.php:884 elements/testimonial-carousel.php:548
+msgid "Pagination Dot Color"
+msgstr ""
+
+#: aiero-plugin.php:1662
+msgid "Pagination Dot Border"
+msgstr ""
+
+#: aiero-plugin.php:1678 aiero-plugin.php:2027 aiero-plugin.php:2109
+#: elements/blog.php:1482 elements/case-study-listing.php:1274
+#: elements/content-slider.php:2643 elements/gallery.php:547
+#: elements/gallery.php:803 elements/image-carousel.php:1087
+#: elements/mailchimp.php:305 elements/price-item.php:696
+#: elements/products.php:770 elements/projects-listing.php:838
+#: elements/projects-listing.php:2515 elements/projects-listing.php:2842
+#: elements/services-listing.php:2071 elements/services-listing.php:2214
+#: elements/step-carousel.php:900 elements/tabs.php:467
+#: elements/team-members.php:700 elements/testimonial-carousel.php:564
+msgid "Active"
+msgstr ""
+
+#: aiero-plugin.php:1685 elements/content-slider.php:2650
+#: elements/gallery.php:810 elements/image-carousel.php:1094
+#: elements/projects-listing.php:2522 elements/services-listing.php:2221
+#: elements/step-carousel.php:907 elements/testimonial-carousel.php:571
+msgid "Pagination Active Dot Color"
+msgstr ""
+
+#: aiero-plugin.php:1696
+msgid "Pagination Active Dot Border"
+msgstr ""
+
+#: aiero-plugin.php:1723
+msgid "Spacing"
+msgstr ""
+
+#: aiero-plugin.php:1727
+msgid "Custom"
+msgstr ""
+
+#: aiero-plugin.php:1738 elements/audio-listing.php:434
+msgid "Image Spacing"
+msgstr ""
+
+#: aiero-plugin.php:1765 elements/blog.php:1156 elements/blog.php:1177
+#: elements/content-slider.php:2435 elements/icon-box.php:434
+#: elements/icon-box.php:448 elements/services-listing.php:1213
+#: elements/services-listing.php:1235 elements/tabs.php:642
+#: elements/team-members.php:512 elements/video-button.php:396
+msgid "Icon Color"
+msgstr ""
+
+#: aiero-plugin.php:1780 elements/content-slider.php:2479
+#: elements/team-members.php:488 elements/video-button.php:418
+msgid "Icon Background Color"
+msgstr ""
+
+#: aiero-plugin.php:1794
+msgid "Image Overlay Color"
+msgstr ""
+
+#: aiero-plugin.php:1826
+msgid "Frame Color"
+msgstr ""
+
+#: aiero-plugin.php:1857
+msgid "Frame Color on Hover"
+msgstr ""
+
+#: aiero-plugin.php:1878
+msgid "Add Images"
+msgstr ""
+
+#: aiero-plugin.php:1890
+msgid "Image ID"
+msgstr ""
+
+#: aiero-plugin.php:1892
+msgid "#"
+msgstr ""
+
+#: aiero-plugin.php:1900
+msgid "Images IDs"
+msgstr ""
+
+#: aiero-plugin.php:1915 elements/audio-listing.php:393 elements/blog.php:1191
+#: elements/icon-box.php:372 elements/icon-box.php:392
+#: elements/services-listing.php:1155 elements/tabs.php:105
+#: elements/tabs.php:618 elements/video-button.php:316
+msgid "Icon Size"
+msgstr ""
+
+#: aiero-plugin.php:1929 elements/content-slider.php:392
+#: elements/content-slider.php:477 elements/icon-box.php:172
+#: elements/services-listing.php:486 elements/tabs.php:236
+msgid "Space Between"
+msgstr ""
+
+#: aiero-plugin.php:1960
+msgid "Counter Typography"
+msgstr ""
+
+#: aiero-plugin.php:1971
+msgid "Counter Title Padding"
+msgstr ""
+
+#: aiero-plugin.php:1998 aiero-plugin.php:2034 aiero-plugin.php:2080
+#: aiero-plugin.php:2116 elements/awards.php:284 elements/blog.php:744
+#: elements/blog.php:770 elements/gallery.php:106 elements/gallery.php:701
+#: elements/icon-box.php:612 elements/image-carousel.php:984
+#: elements/image-carousel.php:1018 elements/mailchimp.php:118
+#: elements/moving-list.php:114 elements/moving-list.php:137
+#: elements/moving-list.php:375 elements/moving-list.php:398
+#: elements/price-item.php:393 elements/products.php:313
+#: elements/services-listing.php:1367 elements/services-listing.php:1490
+#: elements/step-carousel.php:713 elements/wpforms.php:227
+msgid "Title Color"
+msgstr ""
+
+#: aiero-plugin.php:2010 aiero-plugin.php:2046 aiero-plugin.php:2092
+#: aiero-plugin.php:2128 elements/gallery.php:712
+msgid "Title Background Color"
+msgstr ""
+
+#: elements/audio-listing.php:33 elements/audio-listing.php:60
+msgid "Audio Listing"
+msgstr ""
+
+#: elements/audio-listing.php:67 elements/blog.php:78
+#: elements/image-carousel.php:66 elements/step-carousel.php:58
+#: elements/testimonial-carousel.php:59
+msgid "View Type"
+msgstr ""
+
+#: elements/audio-listing.php:71 elements/heading.php:300
+msgid "Inline"
+msgstr ""
+
+#: elements/audio-listing.php:72 elements/products.php:90
+msgid "Columns"
+msgstr ""
+
+#: elements/audio-listing.php:80 elements/blog.php:94
+#: elements/case-study-listing.php:72 elements/gallery.php:226
+#: elements/gallery.php:253 elements/gallery.php:280
+#: elements/projects-listing.php:435 elements/projects-listing.php:472
+#: elements/services-listing.php:528 elements/services-listing.php:687
+#: elements/step-carousel.php:279 elements/team-members.php:187
+#: elements/testimonial-carousel.php:141
+msgid "Columns Number"
+msgstr ""
+
+#: elements/audio-listing.php:96 elements/projects-listing.php:85
+msgid "Audio"
+msgstr ""
+
+#: elements/audio-listing.php:105 elements/content-slider.php:2177
+#: elements/gallery.php:117 elements/icon-box.php:191
+#: elements/image-carousel.php:160 elements/price-item.php:122
+msgid "Image"
+msgstr ""
+
+#: elements/audio-listing.php:117 elements/awards.php:84
+#: elements/content-slider.php:737 elements/gallery.php:99
+#: elements/image-carousel.php:183 elements/moving-list.php:65
+msgid "Enter Title"
+msgstr ""
+
+#: elements/audio-listing.php:124 elements/image-carousel.php:201
+msgid "Items"
+msgstr ""
+
+#: elements/audio-listing.php:136
+msgid "Hide Audio Icon"
+msgstr ""
+
+#: elements/audio-listing.php:148
+msgid "Title Position"
+msgstr ""
+
+#: elements/audio-listing.php:176 elements/image-carousel.php:508
+#: elements/moving-list.php:195 elements/services-listing.php:470
+msgid "Vertical Alignment"
+msgstr ""
+
+#: elements/audio-listing.php:181 elements/button.php:143
+#: elements/content-slider.php:465 elements/content-slider.php:502
+#: elements/content-slider.php:527 elements/content-slider.php:579
+#: elements/content-slider.php:1775 elements/content-slider.php:2296
+#: elements/icon-box.php:107 elements/icon-box.php:132
+#: elements/image-carousel.php:512 elements/moving-list.php:200
+#: elements/services-listing.php:376 elements/services-listing.php:444
+#: elements/services-listing.php:474 elements/tabs.php:254
+#: elements/tabs.php:600
+msgid "Top"
+msgstr ""
+
+#: elements/audio-listing.php:185 elements/icon-box.php:136
+#: elements/moving-list.php:204 elements/services-listing.php:448
+msgid "Middle"
+msgstr ""
+
+#: elements/audio-listing.php:189 elements/button.php:151
+#: elements/content-slider.php:473 elements/content-slider.php:510
+#: elements/content-slider.php:535 elements/content-slider.php:587
+#: elements/content-slider.php:1783 elements/content-slider.php:2304
+#: elements/icon-box.php:115 elements/icon-box.php:140
+#: elements/image-carousel.php:514 elements/moving-list.php:208
+#: elements/services-listing.php:452 elements/services-listing.php:482
+#: elements/tabs.php:262
+msgid "Bottom"
+msgstr ""
+
+#: elements/audio-listing.php:206 elements/gallery.php:574
+#: elements/image-carousel.php:476 elements/projects-listing.php:1019
+#: elements/services-listing.php:851 elements/team-members.php:214
+msgid "Item Settings"
+msgstr ""
+
+#: elements/audio-listing.php:214 elements/case-study-listing.php:287
+#: elements/gallery.php:602 elements/image-carousel.php:484
+#: elements/projects-listing.php:1051 elements/services-listing.php:859
+#: elements/step-carousel.php:245
+msgid "Space between items"
+msgstr ""
+
+#: elements/audio-listing.php:236 elements/services-listing.php:885
+msgid "Vertical Space between items"
+msgstr ""
+
+#: elements/audio-listing.php:254 elements/image-carousel.php:525
+msgid "Item padding"
+msgstr ""
+
+#: elements/audio-listing.php:266 elements/blog.php:503
+#: elements/image-carousel.php:537
+msgid "Item Border Radius"
+msgstr ""
+
+#: elements/audio-listing.php:286 elements/audio-listing.php:333
+#: elements/price-item.php:263
+msgid "Item Color"
+msgstr ""
+
+#: elements/audio-listing.php:298 elements/audio-listing.php:346
+#: elements/case-study-listing.php:312 elements/image-carousel.php:584
+#: elements/image-carousel.php:621 elements/projects-listing.php:1165
+msgid "Item Border"
+msgstr ""
+
+#: elements/audio-listing.php:306 elements/audio-listing.php:354
+#: elements/blog.php:545 elements/blog.php:593
+#: elements/case-study-listing.php:342 elements/case-study-listing.php:372
+#: elements/image-carousel.php:592 elements/image-carousel.php:629
+#: elements/products.php:205 elements/team-members.php:267
+msgid "Item Background Color"
+msgstr ""
+
+#: elements/audio-listing.php:385
+msgid "Image and Icon Settings"
+msgstr ""
+
+#: elements/audio-listing.php:411
+msgid "Space After Icon"
+msgstr ""
+
+#: elements/audio-listing.php:457
+msgid "Image Width"
+msgstr ""
+
+#: elements/audio-listing.php:492 elements/button.php:203
+#: elements/case-study-listing.php:320 elements/case-study-listing.php:1097
+#: elements/content-slider.php:1274 elements/gallery.php:632
+#: elements/image-carousel.php:882 elements/price-item.php:335
+#: elements/price-item.php:1045 elements/projects-listing.php:1101
+#: elements/projects-listing.php:2442 elements/services-listing.php:1010
+#: elements/services-listing.php:1649 elements/video-button.php:333
+msgid "Border Radius"
+msgstr ""
+
+#: elements/audio-listing.php:510 elements/icon-box.php:595
+#: elements/mailchimp.php:78 elements/price-item.php:376
+#: elements/projects-listing.php:936 elements/step-carousel.php:696
+#: elements/wpforms.php:187
+msgid "Title Settings"
+msgstr ""
+
+#: elements/audio-listing.php:519 elements/awards.php:215 elements/blog.php:722
+#: elements/gallery.php:693 elements/icon-box.php:604
+#: elements/image-carousel.php:920 elements/mailchimp.php:90
+#: elements/moving-list.php:325 elements/price-item.php:385
+#: elements/products.php:293 elements/services-listing.php:1266
+#: elements/step-carousel.php:705 elements/wpforms.php:199
+msgid "Title Typography"
+msgstr ""
+
+#: elements/awards.php:30 elements/awards.php:49
+msgid "Awards"
+msgstr ""
+
+#: elements/awards.php:58
+msgid "Year"
+msgstr ""
+
+#: elements/awards.php:62
+msgid "Enter Year"
+msgstr ""
+
+#: elements/awards.php:73
+msgid "Enter Subtitle"
+msgstr ""
+
+#: elements/awards.php:91
+msgid "Title Link"
+msgstr ""
+
+#: elements/awards.php:98 elements/button.php:90
+#: elements/content-slider.php:1028 elements/icon-box.php:312
+#: elements/moving-list.php:79 elements/projects-listing.php:239
+msgid "http://your-link.com"
+msgstr ""
+
+#: elements/awards.php:105
+msgid "Awards List"
+msgstr ""
+
+#: elements/awards.php:116
+msgid "Title HTML Tag"
+msgstr ""
+
+#: elements/awards.php:119 elements/content-slider.php:748
+#: elements/heading.php:120 elements/image-carousel.php:116
+#: elements/mailchimp.php:101 elements/projects-listing.php:156
+#: elements/services-listing.php:133 elements/special-text.php:81
+#: elements/step-carousel.php:122 elements/wpforms.php:210
+msgid "H1"
+msgstr ""
+
+#: elements/awards.php:120 elements/content-slider.php:749
+#: elements/heading.php:121 elements/image-carousel.php:117
+#: elements/mailchimp.php:102 elements/projects-listing.php:157
+#: elements/services-listing.php:134 elements/special-text.php:82
+#: elements/step-carousel.php:123 elements/wpforms.php:211
+msgid "H2"
+msgstr ""
+
+#: elements/awards.php:121 elements/content-slider.php:750
+#: elements/heading.php:122 elements/image-carousel.php:118
+#: elements/mailchimp.php:103 elements/projects-listing.php:158
+#: elements/services-listing.php:135 elements/special-text.php:83
+#: elements/step-carousel.php:124 elements/wpforms.php:212
+msgid "H3"
+msgstr ""
+
+#: elements/awards.php:122 elements/content-slider.php:751
+#: elements/heading.php:123 elements/image-carousel.php:119
+#: elements/mailchimp.php:104 elements/projects-listing.php:159
+#: elements/services-listing.php:136 elements/special-text.php:84
+#: elements/step-carousel.php:125 elements/wpforms.php:213
+msgid "H4"
+msgstr ""
+
+#: elements/awards.php:123 elements/content-slider.php:752
+#: elements/heading.php:124 elements/image-carousel.php:120
+#: elements/mailchimp.php:105 elements/projects-listing.php:160
+#: elements/services-listing.php:137 elements/special-text.php:85
+#: elements/step-carousel.php:126 elements/wpforms.php:214
+msgid "H5"
+msgstr ""
+
+#: elements/awards.php:124 elements/content-slider.php:753
+#: elements/heading.php:125 elements/image-carousel.php:121
+#: elements/mailchimp.php:106 elements/projects-listing.php:161
+#: elements/services-listing.php:138 elements/special-text.php:86
+#: elements/step-carousel.php:127 elements/wpforms.php:215
+msgid "H6"
+msgstr ""
+
+#: elements/awards.php:125 elements/content-slider.php:754
+#: elements/heading.php:126 elements/image-carousel.php:122
+#: elements/mailchimp.php:107 elements/projects-listing.php:162
+#: elements/services-listing.php:139 elements/special-text.php:87
+#: elements/step-carousel.php:128 elements/wpforms.php:216
+msgid "div"
+msgstr ""
+
+#: elements/awards.php:126 elements/content-slider.php:755
+#: elements/heading.php:127 elements/image-carousel.php:123
+#: elements/mailchimp.php:108 elements/projects-listing.php:163
+#: elements/services-listing.php:140 elements/special-text.php:88
+#: elements/step-carousel.php:129 elements/wpforms.php:217
+msgid "span"
+msgstr ""
+
+#: elements/awards.php:127 elements/content-slider.php:756
+#: elements/heading.php:128 elements/image-carousel.php:124
+#: elements/mailchimp.php:109 elements/projects-listing.php:164
+#: elements/services-listing.php:141 elements/special-text.php:89
+#: elements/step-carousel.php:130 elements/wpforms.php:218
+msgid "p"
+msgstr ""
+
+#: elements/awards.php:141
+msgid "Awards Settings"
+msgstr ""
+
+#: elements/awards.php:149
+msgid "Award Padding"
+msgstr ""
+
+#: elements/awards.php:161
+msgid "Award Border Width"
+msgstr ""
+
+#: elements/awards.php:188 elements/moving-list.php:316
+msgid "Typography Settings"
+msgstr ""
+
+#: elements/awards.php:197 elements/projects-listing.php:1468
+msgid "Year Typography"
+msgstr ""
+
+#: elements/awards.php:206 elements/services-listing.php:1335
+msgid "Subtitle Typography"
+msgstr ""
+
+#: elements/awards.php:229 elements/moving-list.php:339
+msgid "Color Settings"
+msgstr ""
+
+#: elements/awards.php:248 elements/projects-listing.php:1479
+msgid "Year Color"
+msgstr ""
+
+#: elements/awards.php:259 elements/services-listing.php:1420
+#: elements/services-listing.php:1563
+msgid "Subtitle Color"
+msgstr ""
+
+#: elements/awards.php:307
+msgid "Title Hover Color"
+msgstr ""
+
+#: elements/blog.php:30 elements/blog.php:57
+msgid "Blog Listing"
+msgstr ""
+
+#: elements/blog.php:64 elements/case-study-listing.php:59
+#: elements/gallery.php:65 elements/projects-listing.php:64
+#: elements/services-listing.php:59
+msgid "Type"
+msgstr ""
+
+#: elements/blog.php:68 elements/case-study-listing.php:64
+msgid "Classic"
+msgstr ""
+
+#: elements/blog.php:69 elements/case-study-listing.php:63
+#: elements/gallery.php:69 elements/projects-listing.php:68
+#: elements/services-listing.php:63
+msgid "Grid"
+msgstr ""
+
+#: elements/blog.php:70 elements/services-listing.php:64
+msgid "List"
+msgstr ""
+
+#: elements/blog.php:82
+msgid "Column"
+msgstr ""
+
+#: elements/blog.php:83
+msgid "Row"
+msgstr ""
+
+#: elements/blog.php:108 elements/case-study-listing.php:86
+#: elements/projects-listing.php:410 elements/projects-listing.php:446
+#: elements/projects-listing.php:483 elements/projects-listing.php:508
+#: elements/services-listing.php:698 elements/services-listing.php:723
+#: elements/team-members.php:198
+msgid "Items Per Page"
+msgstr ""
+
+#: elements/blog.php:118 elements/case-study-listing.php:125
+#: elements/projects-listing.php:279 elements/services-listing.php:208
+#: elements/team-members.php:117
+msgid "Filter by:"
+msgstr ""
+
+#: elements/blog.php:122 elements/case-study-listing.php:129
+#: elements/gallery.php:179 elements/icon-box.php:189
+#: elements/projects-listing.php:283 elements/services-listing.php:212
+#: elements/team-members.php:121
+msgid "None"
+msgstr ""
+
+#: elements/blog.php:123 elements/case-study-listing.php:130
+#: elements/projects-listing.php:284 elements/services-listing.php:213
+msgid "Category"
+msgstr ""
+
+#: elements/blog.php:124
+msgid "Tag"
+msgstr ""
+
+#: elements/blog.php:125 elements/case-study-listing.php:131
+#: elements/products.php:120 elements/projects-listing.php:285
+#: elements/services-listing.php:214 elements/team-members.php:123
+msgid "ID"
+msgstr ""
+
+#: elements/blog.php:138 elements/case-study-listing.php:144
+#: elements/products.php:162 elements/projects-listing.php:298
+#: elements/services-listing.php:227 elements/team-members.php:136
+msgid "List of categories."
+msgstr ""
+
+#: elements/blog.php:153
+msgid "List of tags."
+msgstr ""
+
+#: elements/blog.php:164
+msgid "IDs"
+msgstr ""
+
+#: elements/blog.php:166
+msgid "Enter ID"
+msgstr ""
+
+#: elements/blog.php:178 elements/case-study-listing.php:96
+#: elements/projects-listing.php:250 elements/services-listing.php:180
+#: elements/team-members.php:89
+msgid "Order By"
+msgstr ""
+
+#: elements/blog.php:182 elements/case-study-listing.php:100
+#: elements/projects-listing.php:254 elements/services-listing.php:184
+#: elements/team-members.php:93
+msgid "Post Date"
+msgstr ""
+
+#: elements/blog.php:183 elements/case-study-listing.php:101
+#: elements/products.php:123 elements/projects-listing.php:255
+#: elements/services-listing.php:185 elements/team-members.php:94
+msgid "Random"
+msgstr ""
+
+#: elements/blog.php:184 elements/case-study-listing.php:102
+#: elements/projects-listing.php:256 elements/services-listing.php:186
+#: elements/team-members.php:95
+msgid "Post ID"
+msgstr ""
+
+#: elements/blog.php:185 elements/case-study-listing.php:103
+#: elements/projects-listing.php:257 elements/services-listing.php:187
+#: elements/team-members.php:96
+msgid "Post Title"
+msgstr ""
+
+#: elements/blog.php:194 elements/case-study-listing.php:112
+#: elements/products.php:133 elements/projects-listing.php:266
+#: elements/services-listing.php:195 elements/team-members.php:104
+msgid "Order"
+msgstr ""
+
+#: elements/blog.php:198 elements/case-study-listing.php:116
+#: elements/projects-listing.php:270 elements/services-listing.php:199
+#: elements/team-members.php:108
+msgid "Descending"
+msgstr ""
+
+#: elements/blog.php:199 elements/case-study-listing.php:117
+#: elements/projects-listing.php:271 elements/services-listing.php:200
+#: elements/team-members.php:109
+msgid "Ascending"
+msgstr ""
+
+#: elements/blog.php:220 elements/case-study-listing.php:169
+msgid "Media"
+msgstr ""
+
+#: elements/blog.php:235
+msgid "Author"
+msgstr ""
+
+#: elements/blog.php:247 elements/case-study-listing.php:181
+#: elements/products.php:119
+msgid "Date"
+msgstr ""
+
+#: elements/blog.php:286
+msgid "Excerpt"
+msgstr ""
+
+#: elements/blog.php:298 elements/projects-listing.php:355
+#: elements/services-listing.php:279
+msgid "Excerpt Length, in symbols"
+msgstr ""
+
+#: elements/blog.php:311 elements/case-study-listing.php:232
+#: elements/services-listing.php:307
+msgid "'Read More' Button"
+msgstr ""
+
+#: elements/blog.php:326 elements/button.php:74
+#: elements/case-study-listing.php:247 elements/content-slider.php:1011
+#: elements/content-slider.php:1369 elements/price-item.php:227
+#: elements/price-item.php:230 elements/projects-listing.php:219
+#: elements/services-listing.php:322
+msgid "Button Text"
+msgstr ""
+
+#: elements/blog.php:327 elements/case-study-listing.php:248
+#: elements/projects-listing.php:369 elements/projects-listing.php:382
+#: elements/services-listing.php:323
+msgid "Enter text"
+msgstr ""
+
+#: elements/blog.php:329 elements/case-study-listing.php:250
+#: elements/services-listing.php:325
+msgid "Read More"
+msgstr ""
+
+#: elements/blog.php:340 elements/blog.php:1768
+#: elements/case-study-listing.php:1462 elements/projects-listing.php:3240
+#: elements/services-listing.php:2559 elements/team-members.php:869
+msgid "Pagination"
+msgstr ""
+
+#: elements/blog.php:359 elements/case-study-listing.php:279
+msgid "General Settings"
+msgstr ""
+
+#: elements/blog.php:367 elements/team-members.php:222
+msgid "Horizontal Space Between Items"
+msgstr ""
+
+#: elements/blog.php:393 elements/team-members.php:244
+msgid "Vertical Space Between Items"
+msgstr ""
+
+#: elements/blog.php:418 elements/team-members.php:281
+msgid "Item Border Width"
+msgstr ""
+
+#: elements/blog.php:442
+msgid "Content Spacing Vertical"
+msgstr ""
+
+#: elements/blog.php:469
+msgid "Content Spacing Horizontal"
+msgstr ""
+
+#: elements/blog.php:524
+msgid "Post Quote Background Color"
+msgstr ""
+
+#: elements/blog.php:559 elements/blog.php:607 elements/products.php:220
+#: elements/team-members.php:302
+msgid "Item Border Color"
+msgstr ""
+
+#: elements/blog.php:572 elements/blog.php:620 elements/blog.php:1471
+#: elements/blog.php:1566 elements/case-study-listing.php:354
+#: elements/case-study-listing.php:384 elements/case-study-listing.php:1263
+#: elements/case-study-listing.php:1358 elements/price-item.php:349
+#: elements/products.php:244 elements/products.php:265
+#: elements/products.php:759 elements/products.php:851
+#: elements/projects-listing.php:827 elements/projects-listing.php:919
+#: elements/projects-listing.php:2831 elements/projects-listing.php:2923
+#: elements/services-listing.php:1064 elements/services-listing.php:1108
+#: elements/services-listing.php:2060 elements/services-listing.php:2152
+#: elements/team-members.php:689 elements/team-members.php:781
+msgid "Item Shadow"
+msgstr ""
+
+#: elements/blog.php:641 elements/case-study-listing.php:453
+#: elements/gallery.php:684 elements/image-carousel.php:911
+#: elements/price-item.php:613 elements/projects-listing.php:1334
+#: elements/services-listing.php:1257 elements/team-members.php:377
+#: elements/testimonial-carousel.php:392
+msgid "Content Settings"
+msgstr ""
+
+#: elements/blog.php:684
+msgid "Space Between Image and Content"
+msgstr ""
+
+#: elements/blog.php:706 elements/team-members.php:385
+msgid "Content Padding"
+msgstr ""
+
+#: elements/blog.php:787 elements/projects-listing.php:1494
+#: elements/services-listing.php:1307
+msgid "Excerpt Typography"
+msgstr ""
+
+#: elements/blog.php:799 elements/projects-listing.php:1505
+#: elements/services-listing.php:1378 elements/services-listing.php:1521
+msgid "Excerpt Color"
+msgstr ""
+
+#: elements/blog.php:814
+msgid "Meta Typography"
+msgstr ""
+
+#: elements/blog.php:854 elements/case-study-listing.php:617
+msgid "Month/Year Typography"
+msgstr ""
+
+#: elements/blog.php:867 elements/case-study-listing.php:629
+msgid "Day Typography"
+msgstr ""
+
+#: elements/blog.php:880
+msgid "Author Typography"
+msgstr ""
+
+#: elements/blog.php:892
+msgid "Meta Separator Color"
+msgstr ""
+
+#: elements/blog.php:970 elements/blog.php:990
+msgid "Meta Color"
+msgstr ""
+
+#: elements/blog.php:1004
+msgid "Meta Background Color"
+msgstr ""
+
+#: elements/blog.php:1046
+msgid "Day Color"
+msgstr ""
+
+#: elements/blog.php:1064
+msgid "Day Gradient Color"
+msgstr ""
+
+#: elements/blog.php:1079
+msgid "Month/Year Color"
+msgstr ""
+
+#: elements/blog.php:1108 elements/blog.php:1129
+msgid "Author Color"
+msgstr ""
+
+#: elements/blog.php:1212
+msgid "More Button Typography"
+msgstr ""
+
+#: elements/blog.php:1224
+msgid "More Button Color"
+msgstr ""
+
+#: elements/blog.php:1242 elements/case-study-listing.php:682
+#: elements/services-listing.php:1347
+msgid "Tags Typography"
+msgstr ""
+
+#: elements/blog.php:1269 elements/blog.php:1290
+#: elements/case-study-listing.php:706 elements/case-study-listing.php:761
+#: elements/services-listing.php:1392 elements/services-listing.php:1535
+msgid "Tags Color"
+msgstr ""
+
+#: elements/blog.php:1310 elements/case-study-listing.php:1128
+#: elements/products.php:598 elements/projects-listing.php:2673
+#: elements/services-listing.php:1924 elements/team-members.php:558
+msgid "Pagination Settings"
+msgstr ""
+
+#: elements/blog.php:1321 elements/products.php:609
+#: elements/projects-listing.php:2685
+msgid "Pagination Alignment"
+msgstr ""
+
+#: elements/blog.php:1348 elements/case-study-listing.php:1140
+#: elements/products.php:636 elements/projects-listing.php:2712
+#: elements/services-listing.php:1937 elements/team-members.php:570
+msgid "Pagination Typography"
+msgstr ""
+
+#: elements/blog.php:1357 elements/case-study-listing.php:1149
+#: elements/products.php:644 elements/projects-listing.php:2720
+#: elements/services-listing.php:1945 elements/team-members.php:578
+msgid "Pagination Border Style"
+msgstr ""
+
+#: elements/blog.php:1361 elements/blog.php:1375 elements/button.php:221
+#: elements/button.php:238 elements/case-study-listing.php:849
+#: elements/case-study-listing.php:863 elements/case-study-listing.php:1153
+#: elements/case-study-listing.php:1167 elements/content-slider.php:1048
+#: elements/content-slider.php:1062 elements/mailchimp.php:483
+#: elements/mailchimp.php:497 elements/price-item.php:804
+#: elements/price-item.php:818 elements/products.php:438
+#: elements/products.php:648 elements/products.php:662
+#: elements/projects-listing.php:720 elements/projects-listing.php:734
+#: elements/projects-listing.php:1585 elements/projects-listing.php:1599
+#: elements/projects-listing.php:1887 elements/projects-listing.php:1901
+#: elements/projects-listing.php:2188 elements/projects-listing.php:2202
+#: elements/projects-listing.php:2555 elements/projects-listing.php:2724
+#: elements/projects-listing.php:2738 elements/services-listing.php:1323
+#: elements/services-listing.php:1665 elements/services-listing.php:1679
+#: elements/services-listing.php:1949 elements/services-listing.php:1963
+#: elements/services-listing.php:2254 elements/step-carousel.php:940
+#: elements/team-members.php:582 elements/team-members.php:596
+#: elements/wpforms.php:658 elements/wpforms.php:672
+msgid "Gradient"
+msgstr ""
+
+#: elements/blog.php:1362 elements/blog.php:1376 elements/button.php:222
+#: elements/button.php:239 elements/case-study-listing.php:850
+#: elements/case-study-listing.php:864 elements/case-study-listing.php:1154
+#: elements/case-study-listing.php:1168 elements/content-slider.php:1049
+#: elements/content-slider.php:1063 elements/mailchimp.php:484
+#: elements/mailchimp.php:498 elements/price-item.php:805
+#: elements/price-item.php:819 elements/products.php:439
+#: elements/products.php:649 elements/products.php:663
+#: elements/projects-listing.php:721 elements/projects-listing.php:735
+#: elements/projects-listing.php:1586 elements/projects-listing.php:1600
+#: elements/projects-listing.php:1888 elements/projects-listing.php:1902
+#: elements/projects-listing.php:2189 elements/projects-listing.php:2203
+#: elements/projects-listing.php:2556 elements/projects-listing.php:2725
+#: elements/projects-listing.php:2739 elements/services-listing.php:1322
+#: elements/services-listing.php:1666 elements/services-listing.php:1680
+#: elements/services-listing.php:1950 elements/services-listing.php:1964
+#: elements/services-listing.php:2255 elements/step-carousel.php:941
+#: elements/team-members.php:583 elements/team-members.php:597
+#: elements/wpforms.php:659 elements/wpforms.php:673
+msgid "Solid"
+msgstr ""
+
+#: elements/blog.php:1371 elements/case-study-listing.php:1163
+#: elements/products.php:658 elements/projects-listing.php:2734
+#: elements/services-listing.php:1959 elements/team-members.php:592
+msgid "Pagination Background Style"
+msgstr ""
+
+#: elements/blog.php:1397 elements/blog.php:1492
+#: elements/case-study-listing.php:1189 elements/case-study-listing.php:1284
+#: elements/products.php:685 elements/products.php:777
+#: elements/projects-listing.php:2757 elements/projects-listing.php:2849
+#: elements/services-listing.php:1986 elements/services-listing.php:2078
+#: elements/team-members.php:615 elements/team-members.php:707
+msgid "Pagination Text Color"
+msgstr ""
+
+#: elements/blog.php:1408 elements/blog.php:1503
+#: elements/case-study-listing.php:1200 elements/case-study-listing.php:1295
+#: elements/products.php:696 elements/products.php:788
+#: elements/projects-listing.php:2768 elements/projects-listing.php:2860
+#: elements/services-listing.php:1997 elements/services-listing.php:2089
+#: elements/team-members.php:626 elements/team-members.php:718
+msgid "Pagination Border Color"
+msgstr ""
+
+#: elements/blog.php:1425 elements/blog.php:1520 elements/button.php:319
+#: elements/button.php:436 elements/case-study-listing.php:913
+#: elements/case-study-listing.php:1009 elements/case-study-listing.php:1217
+#: elements/case-study-listing.php:1312 elements/content-slider.php:1100
+#: elements/mailchimp.php:544 elements/mailchimp.php:636
+#: elements/price-item.php:868 elements/price-item.php:964
+#: elements/products.php:713 elements/products.php:805
+#: elements/projects-listing.php:781 elements/projects-listing.php:873
+#: elements/projects-listing.php:1726 elements/projects-listing.php:1809
+#: elements/projects-listing.php:2252 elements/projects-listing.php:2349
+#: elements/projects-listing.php:2785 elements/projects-listing.php:2877
+#: elements/services-listing.php:1729 elements/services-listing.php:1825
+#: elements/services-listing.php:2014 elements/services-listing.php:2106
+#: elements/team-members.php:643 elements/team-members.php:735
+#: elements/wpforms.php:723 elements/wpforms.php:826
+msgid "Border Color Gradient"
+msgstr ""
+
+#: elements/blog.php:1439 elements/blog.php:1534
+#: elements/case-study-listing.php:1231 elements/case-study-listing.php:1326
+#: elements/products.php:727 elements/products.php:819
+#: elements/projects-listing.php:2799 elements/projects-listing.php:2891
+#: elements/services-listing.php:2028 elements/services-listing.php:2120
+#: elements/team-members.php:657 elements/team-members.php:749
+msgid "Pagination Background Color"
+msgstr ""
+
+#: elements/blog.php:1456 elements/blog.php:1551 elements/button.php:356
+#: elements/button.php:474 elements/case-study-listing.php:944
+#: elements/case-study-listing.php:1040 elements/case-study-listing.php:1248
+#: elements/case-study-listing.php:1343 elements/content-slider.php:1131
+#: elements/mailchimp.php:575 elements/mailchimp.php:667
+#: elements/price-item.php:899 elements/price-item.php:995
+#: elements/products.php:744 elements/products.php:836
+#: elements/projects-listing.php:812 elements/projects-listing.php:904
+#: elements/projects-listing.php:1757 elements/projects-listing.php:1840
+#: elements/projects-listing.php:1979 elements/projects-listing.php:2074
+#: elements/projects-listing.php:2283 elements/projects-listing.php:2380
+#: elements/projects-listing.php:2816 elements/projects-listing.php:2908
+#: elements/services-listing.php:1760 elements/services-listing.php:1856
+#: elements/services-listing.php:2045 elements/services-listing.php:2137
+#: elements/team-members.php:674 elements/team-members.php:766
+#: elements/wpforms.php:757 elements/wpforms.php:860
+msgid "Background Color Gradient"
+msgstr ""
+
+#: elements/blog.php:1583 elements/projects-listing.php:1561
+msgid "Categories Settings"
+msgstr ""
+
+#: elements/blog.php:1595 elements/projects-listing.php:1573
+msgid "Categories Typography"
+msgstr ""
+
+#: elements/blog.php:1612 elements/blog.php:1645
+msgid "Categories Color"
+msgstr ""
+
+#: elements/blog.php:1622 elements/blog.php:1655
+#: elements/projects-listing.php:1709 elements/projects-listing.php:1792
+msgid "Categories Border Color"
+msgstr ""
+
+#: elements/blog.php:1776 elements/case-study-listing.php:1470
+#: elements/projects-listing.php:3248 elements/services-listing.php:2567
+#: elements/team-members.php:877
+msgid "Previous"
+msgstr ""
+
+#: elements/blog.php:1777 elements/case-study-listing.php:1471
+#: elements/projects-listing.php:3249 elements/services-listing.php:2568
+#: elements/team-members.php:878
+msgid "Next"
+msgstr ""
+
+#: elements/button.php:29 elements/button.php:52 elements/button.php:76
+#: elements/content-slider.php:1013 elements/projects-listing.php:221
+msgid "Button"
+msgstr ""
+
+#: elements/button.php:59
+msgid "Button Type"
+msgstr ""
+
+#: elements/button.php:64 elements/gallery.php:84
+msgid "Simple"
+msgstr ""
+
+#: elements/button.php:65 elements/price-item.php:74
+msgid "Alternative"
+msgstr ""
+
+#: elements/button.php:66
+msgid "Parallax"
+msgstr ""
+
+#: elements/button.php:83 elements/content-slider.php:1021
+#: elements/price-item.php:238 elements/projects-listing.php:232
+msgid "Button Link"
+msgstr ""
+
+#: elements/button.php:97 elements/video-button.php:220
+msgid "Button Alignment"
+msgstr ""
+
+#: elements/button.php:135
+msgid "Button Position"
+msgstr ""
+
+#: elements/button.php:172 elements/case-study-listing.php:812
+#: elements/mailchimp.php:462 elements/price-item.php:770
+#: elements/services-listing.php:1616 elements/wpforms.php:637
+msgid "Button Settings"
+msgstr ""
+
+#: elements/button.php:181 elements/case-study-listing.php:824
+#: elements/content-slider.php:1036 elements/mailchimp.php:471
+#: elements/price-item.php:779 elements/projects-listing.php:1520
+#: elements/projects-listing.php:2176 elements/services-listing.php:1628
+#: elements/wpforms.php:646
+msgid "Button Typography"
+msgstr ""
+
+#: elements/button.php:217 elements/case-study-listing.php:845
+#: elements/content-slider.php:1044 elements/mailchimp.php:479
+#: elements/price-item.php:800 elements/projects-listing.php:2184
+#: elements/services-listing.php:1661 elements/wpforms.php:654
+msgid "Button Border Style"
+msgstr ""
+
+#: elements/button.php:234 elements/case-study-listing.php:859
+#: elements/content-slider.php:1058 elements/mailchimp.php:493
+#: elements/price-item.php:814 elements/projects-listing.php:2198
+#: elements/services-listing.php:1675 elements/wpforms.php:668
+msgid "Button Background Style"
+msgstr ""
+
+#: elements/button.php:263 elements/button.php:394
+#: elements/case-study-listing.php:885 elements/case-study-listing.php:981
+#: elements/content-slider.php:1072 elements/price-item.php:840
+#: elements/price-item.php:936 elements/projects-listing.php:1388
+#: elements/projects-listing.php:1422 elements/projects-listing.php:2224
+#: elements/projects-listing.php:2321 elements/services-listing.php:1701
+#: elements/services-listing.php:1797
+msgid "Button Color"
+msgstr ""
+
+#: elements/button.php:275 elements/button.php:407
+#: elements/case-study-listing.php:896 elements/case-study-listing.php:992
+#: elements/content-slider.php:1083 elements/mailchimp.php:527
+#: elements/mailchimp.php:619 elements/price-item.php:851
+#: elements/price-item.php:947 elements/projects-listing.php:2235
+#: elements/projects-listing.php:2332 elements/services-listing.php:1712
+#: elements/services-listing.php:1808 elements/wpforms.php:704
+#: elements/wpforms.php:807
+msgid "Button Border Color"
+msgstr ""
+
+#: elements/button.php:302
+msgid "Button Border Color Additional"
+msgstr ""
+
+#: elements/button.php:334 elements/button.php:451
+#: elements/case-study-listing.php:927 elements/case-study-listing.php:1023
+#: elements/content-slider.php:1114 elements/content-slider.php:2501
+#: elements/mailchimp.php:558 elements/mailchimp.php:650
+#: elements/price-item.php:882 elements/price-item.php:978
+#: elements/products.php:471 elements/products.php:522
+#: elements/projects-listing.php:2266 elements/projects-listing.php:2363
+#: elements/services-listing.php:1743 elements/services-listing.php:1839
+#: elements/video-button.php:440 elements/wpforms.php:738
+#: elements/wpforms.php:841
+msgid "Button Background Color"
+msgstr ""
+
+#: elements/button.php:504 elements/case-study-listing.php:1076
+#: elements/content-slider.php:1240 elements/price-item.php:1024
+#: elements/projects-listing.php:2409 elements/services-listing.php:1885
+#: elements/video-button.php:545
+msgid "Remove Box Shadow"
+msgstr ""
+
+#: elements/button.php:532 elements/case-study-listing.php:1109
+#: elements/content-slider.php:1286 elements/content-slider.php:2556
+#: elements/mailchimp.php:693 elements/price-item.php:1058
+#: elements/projects-listing.php:2454 elements/services-listing.php:1906
+#: elements/video-button.php:286
+msgid "Button Padding"
+msgstr ""
+
+#: elements/button.php:548
+msgid "Button Icon Indent"
+msgstr ""
+
+#: elements/button.php:563 elements/content-slider.php:1310
+#: elements/price-item.php:1070
+msgid "Button Width"
+msgstr ""
+
+#: elements/case-study-listing.php:29 elements/case-study-listing.php:52
+msgid "Case Study Listing"
+msgstr ""
+
+#: elements/case-study-listing.php:155
+msgid "Choose Case Study"
+msgstr ""
+
+#: elements/case-study-listing.php:205
+msgid "Post Name"
+msgstr ""
+
+#: elements/case-study-listing.php:217
+msgid "Features"
+msgstr ""
+
+#: elements/case-study-listing.php:261 elements/products.php:102
+#: elements/projects-listing.php:340 elements/services-listing.php:336
+#: elements/team-members.php:161
+msgid "Show Pagination"
+msgstr ""
+
+#: elements/case-study-listing.php:402 elements/image-carousel.php:659
+#: elements/price-item.php:484
+msgid "Image Settings"
+msgstr ""
+
+#: elements/case-study-listing.php:413 elements/projects-listing.php:1147
+msgid "Image Border Radius"
+msgstr ""
+
+#: elements/case-study-listing.php:425
+msgid "Image Height"
+msgstr ""
+
+#: elements/case-study-listing.php:491
+msgid "Post Name Padding"
+msgstr ""
+
+#: elements/case-study-listing.php:504
+msgid "Post Name Typography"
+msgstr ""
+
+#: elements/case-study-listing.php:526 elements/case-study-listing.php:551
+msgid "Post Name Color"
+msgstr ""
+
+#: elements/case-study-listing.php:578
+msgid "Features Typography"
+msgstr ""
+
+#: elements/case-study-listing.php:590
+msgid "Features Color"
+msgstr ""
+
+#: elements/case-study-listing.php:643
+msgid "Date Background"
+msgstr ""
+
+#: elements/case-study-listing.php:657
+msgid "Date Color"
+msgstr ""
+
+#: elements/case-study-listing.php:720 elements/case-study-listing.php:775
+msgid "Tags Background Color"
+msgstr ""
+
+#: elements/case-study-listing.php:734 elements/case-study-listing.php:789
+#: elements/services-listing.php:1406 elements/services-listing.php:1549
+msgid "Tags Border Color"
+msgstr ""
+
+#: elements/content-slider.php:30 elements/content-slider.php:61
+msgid "Content Slider"
+msgstr ""
+
+#: elements/content-slider.php:68 elements/gallery.php:582
+msgid "Slider Height"
+msgstr ""
+
+#: elements/content-slider.php:85
+msgid "Show video preview"
+msgstr ""
+
+#: elements/content-slider.php:98 elements/content-slider.php:1382
+#: elements/video-button.php:60
+msgid "Source"
+msgstr ""
+
+#: elements/content-slider.php:102 elements/content-slider.php:1386
+#: elements/video-button.php:64
+msgid "YouTube"
+msgstr ""
+
+#: elements/content-slider.php:103 elements/content-slider.php:1387
+#: elements/video-button.php:65
+msgid "Vimeo"
+msgstr ""
+
+#: elements/content-slider.php:104 elements/content-slider.php:1388
+#: elements/video-button.php:66
+msgid "Dailymotion"
+msgstr ""
+
+#: elements/content-slider.php:105 elements/content-slider.php:1389
+#: elements/video-button.php:67
+msgid "Self Hosted"
+msgstr ""
+
+#: elements/content-slider.php:117 elements/content-slider.php:140
+#: elements/content-slider.php:162 elements/content-slider.php:1401
+#: elements/content-slider.php:1424 elements/content-slider.php:1446
+#: elements/custom-menu.php:66 elements/gallery.php:175
+#: elements/moving-list.php:72 elements/video-button.php:76
+#: elements/video-button.php:98 elements/video-button.php:119
+msgid "Link"
+msgstr ""
+
+#: elements/content-slider.php:126 elements/content-slider.php:149
+#: elements/content-slider.php:171 elements/content-slider.php:230
+#: elements/content-slider.php:1410 elements/content-slider.php:1433
+#: elements/content-slider.php:1455 elements/content-slider.php:1514
+#: elements/video-button.php:85 elements/video-button.php:107
+#: elements/video-button.php:128 elements/video-button.php:184
+msgid "Enter your URL"
+msgstr ""
+
+#: elements/content-slider.php:184 elements/content-slider.php:1468
+#: elements/video-button.php:140
+msgid "External URL"
+msgstr ""
+
+#: elements/content-slider.php:196 elements/content-slider.php:1480
+#: elements/video-button.php:151
+msgid "Choose File"
+msgstr ""
+
+#: elements/content-slider.php:216 elements/content-slider.php:1500
+#: elements/video-button.php:170
+msgid "URL"
+msgstr ""
+
+#: elements/content-slider.php:242 elements/content-slider.php:1526
+#: elements/video-button.php:195
+msgid "Player Controls"
+msgstr ""
+
+#: elements/content-slider.php:258 elements/video-button.php:210
+msgid "Play Button Text"
+msgstr ""
+
+#: elements/content-slider.php:260 elements/video-button.php:212
+msgid "Enter Play Button Text"
+msgstr ""
+
+#: elements/content-slider.php:261 elements/content-slider.php:1371
+#: elements/content-slider.php:3202 elements/content-slider.php:3306
+#: elements/video-button.php:658
+msgid "Watch video"
+msgstr ""
+
+#: elements/content-slider.php:277 elements/gallery.php:270
+#: elements/image-carousel.php:219 elements/projects-listing.php:524
+#: elements/services-listing.php:518 elements/step-carousel.php:272
+#: elements/testimonial-carousel.php:134
+msgid "Slider Settings"
+msgstr ""
+
+#: elements/content-slider.php:286
+msgid "Slide Name"
+msgstr ""
+
+#: elements/content-slider.php:296
+msgid "Text Section Content Width"
+msgstr ""
+
+#: elements/content-slider.php:300 elements/content-slider.php:313
+msgid "Boxed"
+msgstr ""
+
+#: elements/content-slider.php:301 elements/content-slider.php:314
+msgid "Full Width"
+msgstr ""
+
+#: elements/content-slider.php:309
+msgid "Bottom Section Content Width"
+msgstr ""
+
+#: elements/content-slider.php:322
+msgid "Text Column Width, %"
+msgstr ""
+
+#: elements/content-slider.php:340
+msgid "Text Column Padding"
+msgstr ""
+
+#: elements/content-slider.php:352
+msgid "Reverse Columns Position"
+msgstr ""
+
+#: elements/content-slider.php:364
+msgid "Show Title In Separate Column"
+msgstr ""
+
+#: elements/content-slider.php:376
+msgid "Text Column Position"
+msgstr ""
+
+#: elements/content-slider.php:405 elements/content-slider.php:1861
+#: elements/testimonial-carousel.php:327 elements/wpforms.php:117
+msgid "Text Alignment"
+msgstr ""
+
+#: elements/content-slider.php:432
+msgid "Bottom Section Alignment"
+msgstr ""
+
+#: elements/content-slider.php:461
+msgid "Sections Vertical Position"
+msgstr ""
+
+#: elements/content-slider.php:481 elements/services-listing.php:490
+msgid "Space Around"
+msgstr ""
+
+#: elements/content-slider.php:485 elements/services-listing.php:494
+msgid "Space Evenly"
+msgstr ""
+
+#: elements/content-slider.php:498
+msgid "Text Section Vertical Alignment"
+msgstr ""
+
+#: elements/content-slider.php:523
+msgid "Bottom Section Vertical Alignment"
+msgstr ""
+
+#: elements/content-slider.php:551
+msgid "Text Section Padding"
+msgstr ""
+
+#: elements/content-slider.php:563
+msgid "Stretch Text Section"
+msgstr ""
+
+#: elements/content-slider.php:575
+msgid "Text Column Vertical Alignment"
+msgstr ""
+
+#: elements/content-slider.php:603
+msgid "Bottom Section Padding"
+msgstr ""
+
+#: elements/content-slider.php:630 elements/content-slider.php:2138
+msgid "BG"
+msgstr ""
+
+#: elements/content-slider.php:638 elements/content-slider.php:641
+msgid "Slide Background"
+msgstr ""
+
+#: elements/content-slider.php:656 elements/content-slider.php:659
+msgid "Text Column Background"
+msgstr ""
+
+#: elements/content-slider.php:670
+msgid "Add Overlay"
+msgstr ""
+
+#: elements/content-slider.php:682 elements/projects-listing.php:1233
+msgid "Overlay Color"
+msgstr ""
+
+#: elements/content-slider.php:698
+msgid "Text Column Border Radius"
+msgstr ""
+
+#: elements/content-slider.php:710
+msgid "Section Border Radius"
+msgstr ""
+
+#: elements/content-slider.php:745 elements/heading.php:117
+#: elements/image-carousel.php:113 elements/mailchimp.php:98
+#: elements/projects-listing.php:153 elements/services-listing.php:130
+#: elements/special-text.php:78 elements/step-carousel.php:119
+#: elements/wpforms.php:207
+msgid "HTML Tag"
+msgstr ""
+
+#: elements/content-slider.php:766 elements/heading.php:208
+#: elements/image-carousel.php:405 elements/projects-listing.php:948
+#: elements/services-listing.php:750 elements/step-carousel.php:408
+msgid "Heading Typography"
+msgstr ""
+
+#: elements/content-slider.php:774 elements/heading.php:216
+#: elements/image-carousel.php:413 elements/projects-listing.php:956
+#: elements/services-listing.php:758 elements/step-carousel.php:416
+msgid "Heading Color"
+msgstr ""
+
+#: elements/content-slider.php:786 elements/heading.php:254
+#: elements/image-carousel.php:450 elements/projects-listing.php:993
+#: elements/services-listing.php:795 elements/step-carousel.php:453
+msgid "Text Underline Color"
+msgstr ""
+
+#: elements/content-slider.php:799 elements/content-slider.php:802
+#: elements/heading.php:278 elements/heading.php:281
+msgid "Text Gradient Color"
+msgstr ""
+
+#: elements/content-slider.php:814 elements/heading.php:362
+#: elements/image-carousel.php:462 elements/projects-listing.php:1005
+msgid "Heading Text Shadow"
+msgstr ""
+
+#: elements/content-slider.php:822
+msgid "Add Subtitle"
+msgstr ""
+
+#: elements/content-slider.php:838
+msgid "Enter Your Subtitle"
+msgstr ""
+
+#: elements/content-slider.php:850 elements/heading.php:229
+#: elements/image-carousel.php:425 elements/projects-listing.php:968
+#: elements/services-listing.php:770 elements/step-carousel.php:428
+msgid "Subheading Typography"
+msgstr ""
+
+#: elements/content-slider.php:861 elements/heading.php:240
+#: elements/image-carousel.php:436 elements/projects-listing.php:979
+#: elements/services-listing.php:781 elements/step-carousel.php:439
+msgid "Subheading Color"
+msgstr ""
+
+#: elements/content-slider.php:876
+msgid "Title Margin"
+msgstr ""
+
+#: elements/content-slider.php:888
+msgid "Title Image"
+msgstr ""
+
+#: elements/content-slider.php:896
+msgid "Title Image Max Width"
+msgstr ""
+
+#: elements/content-slider.php:919
+msgid "Title Image Margin"
+msgstr ""
+
+#: elements/content-slider.php:936 elements/price-item.php:187
+#: elements/special-text.php:69 widgets/special-text.php:51
+msgid "Text"
+msgstr ""
+
+#: elements/content-slider.php:943
+msgid "Promo Text"
+msgstr ""
+
+#: elements/content-slider.php:946
+msgid "Enter Promo Text"
+msgstr ""
+
+#: elements/content-slider.php:955 elements/special-text.php:151
+msgid "Text Typography"
+msgstr ""
+
+#: elements/content-slider.php:963 elements/special-text.php:159
+msgid "Text Color"
+msgstr ""
+
+#: elements/content-slider.php:975 elements/special-text.php:125
+msgid "Text Padding"
+msgstr ""
+
+#: elements/content-slider.php:987
+msgid "Text Margin"
+msgstr ""
+
+#: elements/content-slider.php:1004
+msgid "Buttons"
+msgstr ""
+
+#: elements/content-slider.php:1156
+msgid "Button Hover Color"
+msgstr ""
+
+#: elements/content-slider.php:1167
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: elements/content-slider.php:1184
+msgid "Button Hover Border Gradient"
+msgstr ""
+
+#: elements/content-slider.php:1198
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: elements/content-slider.php:1215
+msgid "Button Hover Background Gradient"
+msgstr ""
+
+#: elements/content-slider.php:1298
+msgid "Button Margin"
+msgstr ""
+
+#: elements/content-slider.php:1328
+msgid "Buttons Margin"
+msgstr ""
+
+#: elements/content-slider.php:1340
+msgid "Add Video Button"
+msgstr ""
+
+#: elements/content-slider.php:1353
+msgid "Video Button Position"
+msgstr ""
+
+#: elements/content-slider.php:1358
+msgid "Separate"
+msgstr ""
+
+#: elements/content-slider.php:1542
+msgid "Video Button Border Radius"
+msgstr ""
+
+#: elements/content-slider.php:1558
+msgid "Video Button Typography"
+msgstr ""
+
+#: elements/content-slider.php:1569
+msgid "Video Button Color"
+msgstr ""
+
+#: elements/content-slider.php:1586 elements/content-slider.php:1589
+msgid "Video Button Background Color"
+msgstr ""
+
+#: elements/content-slider.php:1603
+msgid "Video Icon Border Color"
+msgstr ""
+
+#: elements/content-slider.php:1617
+msgid "Video Icon Background Color"
+msgstr ""
+
+#: elements/content-slider.php:1631
+msgid "Video Button Hover"
+msgstr ""
+
+#: elements/content-slider.php:1646
+msgid "Video Button Icon Hover"
+msgstr ""
+
+#: elements/content-slider.php:1661 elements/content-slider.php:1664
+msgid "Video Button Background Hover"
+msgstr ""
+
+#: elements/content-slider.php:1678
+msgid "Video Icon Border Hover"
+msgstr ""
+
+#: elements/content-slider.php:1692
+msgid "Video Icon Background Hover"
+msgstr ""
+
+#: elements/content-slider.php:1706
+msgid "Video Button Padding"
+msgstr ""
+
+#: elements/content-slider.php:1721
+msgid "Video Button Margin"
+msgstr ""
+
+#: elements/content-slider.php:1741
+msgid "Counter/Video"
+msgstr ""
+
+#: elements/content-slider.php:1748
+msgid "Counter/Video Column Width"
+msgstr ""
+
+#: elements/content-slider.php:1771
+msgid "Counter/Video Column Vertical Alignment"
+msgstr ""
+
+#: elements/content-slider.php:1796
+msgid "Counter/Video Background Color"
+msgstr ""
+
+#: elements/content-slider.php:1807
+msgid "Counter/Video Backdrop Blur Filter, px"
+msgstr ""
+
+#: elements/content-slider.php:1825
+msgid "Counter/Video Border Radius"
+msgstr ""
+
+#: elements/content-slider.php:1837
+msgid "Counter/Video Padding"
+msgstr ""
+
+#: elements/content-slider.php:1849
+msgid "Show counter"
+msgstr ""
+
+#: elements/content-slider.php:1896
+msgid "Space Between Title and Number"
+msgstr ""
+
+#: elements/content-slider.php:1911
+msgid "Starting Number"
+msgstr ""
+
+#: elements/content-slider.php:1926
+msgid "Ending Number"
+msgstr ""
+
+#: elements/content-slider.php:1941
+msgid "Number Prefix"
+msgstr ""
+
+#: elements/content-slider.php:1957
+msgid "Number Suffix"
+msgstr ""
+
+#: elements/content-slider.php:1963
+msgid "Plus"
+msgstr ""
+
+#: elements/content-slider.php:1973
+msgid "Counter Title"
+msgstr ""
+
+#: elements/content-slider.php:1979 elements/content-slider.php:1980
+msgid "Cool Number"
+msgstr ""
+
+#: elements/content-slider.php:1990
+msgid "Animation Duration"
+msgstr ""
+
+#: elements/content-slider.php:2005
+msgid "Thousand Separator"
+msgstr ""
+
+#: elements/content-slider.php:2019
+msgid "Separator"
+msgstr ""
+
+#: elements/content-slider.php:2040
+msgid "Number Text Color"
+msgstr ""
+
+#: elements/content-slider.php:2058
+msgid "Number Text Color Gradient"
+msgstr ""
+
+#: elements/content-slider.php:2073
+msgid "Counter Number Typography"
+msgstr ""
+
+#: elements/content-slider.php:2084
+msgid "Number Title Color"
+msgstr ""
+
+#: elements/content-slider.php:2099
+msgid "Counter Title Typography"
+msgstr ""
+
+#: elements/content-slider.php:2121
+msgid "Add Bottom Section"
+msgstr ""
+
+#: elements/content-slider.php:2146 elements/content-slider.php:2149
+msgid "Bottom Section Background"
+msgstr ""
+
+#: elements/content-slider.php:2160
+msgid "Bottom Section Border Radius"
+msgstr ""
+
+#: elements/content-slider.php:2184
+msgid "Bottom Image"
+msgstr ""
+
+#: elements/content-slider.php:2192
+msgid "Bottom Image Max Width"
+msgstr ""
+
+#: elements/content-slider.php:2215
+msgid "Bottom Image Margin"
+msgstr ""
+
+#: elements/content-slider.php:2231
+msgid "Slides"
+msgstr ""
+
+#: elements/content-slider.php:2243
+msgid "Show Navigation Buttons"
+msgstr ""
+
+#: elements/content-slider.php:2256
+msgid "Navigation Buttons Position"
+msgstr ""
+
+#: elements/content-slider.php:2260
+msgid "Split"
+msgstr ""
+
+#: elements/content-slider.php:2261
+msgid "Group"
+msgstr ""
+
+#: elements/content-slider.php:2274
+msgid "Navigation Buttons Alignment"
+msgstr ""
+
+#: elements/content-slider.php:2292
+msgid "Navigation Buttons Vertical Alignment"
+msgstr ""
+
+#: elements/content-slider.php:2326
+msgid "Show Pagination Dots"
+msgstr ""
+
+#: elements/content-slider.php:2339 elements/gallery.php:344
+#: elements/image-carousel.php:249 elements/projects-listing.php:569
+#: elements/services-listing.php:563 elements/step-carousel.php:314
+#: elements/testimonial-carousel.php:234
+msgid "Animation Speed"
+msgstr ""
+
+#: elements/content-slider.php:2349 elements/gallery.php:354
+#: elements/image-carousel.php:258 elements/projects-listing.php:578
+#: elements/services-listing.php:573 elements/step-carousel.php:324
+#: elements/testimonial-carousel.php:244
+msgid "Infinite Loop"
+msgstr ""
+
+#: elements/content-slider.php:2363 elements/gallery.php:368
+#: elements/image-carousel.php:270 elements/projects-listing.php:590
+#: elements/services-listing.php:587 elements/step-carousel.php:338
+#: elements/testimonial-carousel.php:258
+msgid "Autoplay"
+msgstr ""
+
+#: elements/content-slider.php:2377 elements/gallery.php:382
+#: elements/image-carousel.php:283 elements/projects-listing.php:603
+#: elements/services-listing.php:601 elements/step-carousel.php:352
+#: elements/testimonial-carousel.php:272
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elements/content-slider.php:2389 elements/gallery.php:395
+#: elements/image-carousel.php:296 elements/projects-listing.php:616
+#: elements/services-listing.php:614 elements/step-carousel.php:365
+#: elements/testimonial-carousel.php:285
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: elements/content-slider.php:2402 elements/gallery.php:408
+#: elements/image-carousel.php:309 elements/projects-listing.php:629
+#: elements/services-listing.php:627 elements/step-carousel.php:378
+#: elements/testimonial-carousel.php:298
+msgid "Pause on Hover"
+msgstr ""
+
+#: elements/content-slider.php:2424
+msgid "Video Preview Settings"
+msgstr ""
+
+#: elements/content-slider.php:2446 elements/video-button.php:475
+msgid "Icon Hover"
+msgstr ""
+
+#: elements/content-slider.php:2457 elements/video-button.php:407
+msgid "Icon Border Color"
+msgstr ""
+
+#: elements/content-slider.php:2468 elements/video-button.php:486
+msgid "Icon Border Hover Color"
+msgstr ""
+
+#: elements/content-slider.php:2490 elements/video-button.php:497
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: elements/content-slider.php:2514 elements/video-button.php:346
+msgid "Button Text Typography"
+msgstr ""
+
+#: elements/content-slider.php:2522 elements/mailchimp.php:516
+#: elements/mailchimp.php:608 elements/products.php:460
+#: elements/products.php:511 elements/video-button.php:429
+#: elements/wpforms.php:691 elements/wpforms.php:794
+msgid "Button Text Color"
+msgstr ""
+
+#: elements/content-slider.php:2533 elements/video-button.php:508
+msgid "Button Text Hover"
+msgstr ""
+
+#: elements/content-slider.php:2544 elements/video-button.php:372
+msgid "Button Text Margin"
+msgstr ""
+
+#: elements/content-slider.php:2573 elements/gallery.php:745
+#: elements/image-carousel.php:1051 elements/projects-listing.php:2472
+#: elements/services-listing.php:2168 elements/step-carousel.php:842
+#: elements/testimonial-carousel.php:506
+msgid "Slider Navigation Settings"
+msgstr ""
+
+#: elements/content-slider.php:2596
+msgid "Slider Pagination"
+msgstr ""
+
+#: elements/content-slider.php:2673
+msgid "Slider Navigation"
+msgstr ""
+
+#: elements/content-slider.php:2684
+msgid "Navigation Buttons Background"
+msgstr ""
+
+#: elements/content-slider.php:2719 elements/content-slider.php:2743
+msgid "Navigation Buttons Color"
+msgstr ""
+
+#: elements/content-slider.php:3069
+msgid "elementor-counter-"
+msgstr ""
+
+#: elements/custom-menu.php:29 elements/custom-menu.php:48
+msgid "Custom Menu"
+msgstr ""
+
+#: elements/custom-menu.php:57
+msgid "Navigation Label"
+msgstr ""
+
+#: elements/custom-menu.php:59
+msgid "Enter Label Text"
+msgstr ""
+
+#: elements/custom-menu.php:78 elements/price-item.php:198
+msgid "Highlight this field"
+msgstr ""
+
+#: elements/custom-menu.php:90
+msgid "Menu Items"
+msgstr ""
+
+#: elements/custom-menu.php:133 elements/nav-menu.php:90
+msgid "Menu Items Settings"
+msgstr ""
+
+#: elements/custom-menu.php:142 elements/nav-menu.php:99
+msgid "Labels Typography"
+msgstr ""
+
+#: elements/custom-menu.php:162 elements/custom-menu.php:185
+#: elements/nav-menu.php:119 elements/nav-menu.php:142
+msgid "Labels Color"
+msgstr ""
+
+#: elements/custom-menu.php:201 elements/nav-menu.php:158
+msgid "Items Margin"
+msgstr ""
+
+#: elements/gallery.php:31 elements/gallery.php:58
+msgid "Gallery"
+msgstr ""
+
+#: elements/gallery.php:70 elements/projects-listing.php:69
+msgid "Masonry"
+msgstr ""
+
+#: elements/gallery.php:71 elements/projects-listing.php:70
+#: elements/services-listing.php:65
+msgid "Slider"
+msgstr ""
+
+#: elements/gallery.php:79
+msgid "Title Style"
+msgstr ""
+
+#: elements/gallery.php:83
+msgid "Decorated"
+msgstr ""
+
+#: elements/gallery.php:136
+msgid "Filter Categories"
+msgstr ""
+
+#: elements/gallery.php:138
+msgid "Comma-separated list of Categories for a filter"
+msgstr ""
+
+#: elements/gallery.php:140
+msgid "Enter Categories list"
+msgstr ""
+
+#: elements/gallery.php:147
+msgid "Gallery Items"
+msgstr ""
+
+#: elements/gallery.php:159 elements/projects-listing.php:323
+msgid "Show Filter"
+msgstr ""
+
+#: elements/gallery.php:180
+msgid "Media File"
+msgstr ""
+
+#: elements/gallery.php:188
+msgid "Lightbox"
+msgstr ""
+
+#: elements/gallery.php:191
+#, php-format
+msgid "Manage your site’s lightbox settings in the %1$sLightbox panel%2$s."
+msgstr ""
+
+#: elements/gallery.php:216 elements/projects-listing.php:425
+#: elements/services-listing.php:677 elements/team-members.php:180
+msgid "Grid Settings"
+msgstr ""
+
+#: elements/gallery.php:243 elements/projects-listing.php:462
+msgid "Masonry Settings"
+msgstr ""
+
+#: elements/gallery.php:291 elements/projects-listing.php:545
+#: elements/services-listing.php:539 elements/step-carousel.php:290
+#: elements/testimonial-carousel.php:152
+msgid "Show navigation buttons"
+msgstr ""
+
+#: elements/gallery.php:303 elements/image-carousel.php:237
+#: elements/projects-listing.php:557 elements/services-listing.php:551
+#: elements/step-carousel.php:302 elements/testimonial-carousel.php:164
+msgid "Show pagination dots"
+msgstr ""
+
+#: elements/gallery.php:315 elements/projects-listing.php:644
+#: elements/testimonial-carousel.php:176
+msgid "Dots Alignment"
+msgstr ""
+
+#: elements/gallery.php:424 elements/image-carousel.php:324
+msgid "Show Custom Cursor"
+msgstr ""
+
+#: elements/gallery.php:440 elements/image-carousel.php:337
+msgid "Cursor Text"
+msgstr ""
+
+#: elements/gallery.php:442 elements/image-carousel.php:339
+msgid "Drag"
+msgstr ""
+
+#: elements/gallery.php:455 elements/image-carousel.php:351
+msgid "Cursor Typography"
+msgstr ""
+
+#: elements/gallery.php:467 elements/image-carousel.php:362
+msgid "Cursor Color"
+msgstr ""
+
+#: elements/gallery.php:482 elements/image-carousel.php:376
+msgid "Cursor Background Color"
+msgstr ""
+
+#: elements/gallery.php:503 elements/projects-listing.php:694
+msgid "Filter Settings"
+msgstr ""
+
+#: elements/gallery.php:516 elements/projects-listing.php:708
+msgid "Filter Typography"
+msgstr ""
+
+#: elements/gallery.php:533 elements/gallery.php:554
+#: elements/projects-listing.php:753 elements/projects-listing.php:845
+msgid "Filter Text Color"
+msgstr ""
+
+#: elements/gallery.php:728 elements/projects-listing.php:1132
+msgid "Title Padding"
+msgstr ""
+
+#: elements/gallery.php:855 elements/gallery.php:889
+#: elements/testimonial-carousel.php:586
+msgid "Slider Arrows Background Color"
+msgstr ""
+
+#: elements/gallery.php:984 elements/products.php:67
+#: elements/projects-listing.php:3137
+msgid "All"
+msgstr ""
+
+#: elements/heading.php:29 elements/heading.php:56 elements/heading.php:63
+msgid "Heading"
+msgstr ""
+
+#: elements/heading.php:66
+msgid "This is heading element"
+msgstr ""
+
+#: elements/heading.php:67
+msgid "Enter Your Heading"
+msgstr ""
+
+#: elements/heading.php:74 elements/image-carousel.php:87
+#: elements/projects-listing.php:123 elements/services-listing.php:100
+#: elements/step-carousel.php:93
+msgid "Add Subheading"
+msgstr ""
+
+#: elements/heading.php:86 elements/heading.php:88
+#: elements/image-carousel.php:99 elements/projects-listing.php:138
+#: elements/services-listing.php:115 elements/step-carousel.php:105
+msgid "Subheading"
+msgstr ""
+
+#: elements/heading.php:89 elements/image-carousel.php:102
+#: elements/projects-listing.php:141 elements/services-listing.php:118
+#: elements/step-carousel.php:108
+msgid "Enter Your Subheading"
+msgstr ""
+
+#: elements/heading.php:100
+msgid "Remove Subheading Decoration"
+msgstr ""
+
+#: elements/heading.php:164
+msgid "Hover Decoration"
+msgstr ""
+
+#: elements/heading.php:168
+msgid "Underline"
+msgstr ""
+
+#: elements/heading.php:183 elements/image-carousel.php:396
+#: elements/services-listing.php:738 elements/step-carousel.php:399
+msgid "Heading Settings"
+msgstr ""
+
+#: elements/heading.php:191
+msgid "Space After Subheading"
+msgstr ""
+
+#: elements/heading.php:265
+msgid "Add Gradient Color"
+msgstr ""
+
+#: elements/heading.php:295
+msgid "Gradient Block Style"
+msgstr ""
+
+#: elements/heading.php:301
+msgid "Inline Block"
+msgstr ""
+
+#: elements/heading.php:302
+msgid "Block"
+msgstr ""
+
+#: elements/heading.php:316
+msgid "Gradient Text Padding"
+msgstr ""
+
+#: elements/heading.php:331 elements/special-text.php:170
+#: elements/step-carousel.php:629
+msgid "Text Stroke Color"
+msgstr ""
+
+#: elements/heading.php:343 elements/special-text.php:184
+#: elements/step-carousel.php:640
+msgid "Text Stroke Width"
+msgstr ""
+
+#: elements/heading.php:370
+msgid "Heading Backdrop Blur Filter, px"
+msgstr ""
+
+#: elements/icon-box.php:29 elements/icon-box.php:48
+msgid "Icon Box"
+msgstr ""
+
+#: elements/icon-box.php:55
+msgid "Type of Icon"
+msgstr ""
+
+#: elements/icon-box.php:59
+msgid "Default Icon"
+msgstr ""
+
+#: elements/icon-box.php:60 elements/icon-box.php:86
+msgid "SVG Icon"
+msgstr ""
+
+#: elements/icon-box.php:68 elements/tabs.php:85
+msgid "Icon"
+msgstr ""
+
+#: elements/icon-box.php:87 elements/icon-box.php:201
+msgid "Enter svg code"
+msgstr ""
+
+#: elements/icon-box.php:99 elements/services-listing.php:368
+#: elements/tabs.php:592
+msgid "Icon Position"
+msgstr ""
+
+#: elements/icon-box.php:128 elements/services-listing.php:440
+msgid "Icon Vertical Alignment"
+msgstr ""
+
+#: elements/icon-box.php:156
+msgid "Icon Box Alignment"
+msgstr ""
+
+#: elements/icon-box.php:185
+msgid "Type of Background"
+msgstr ""
+
+#: elements/icon-box.php:190 elements/services-listing.php:357
+msgid "SVG"
+msgstr ""
+
+#: elements/icon-box.php:192
+msgid "Color"
+msgstr ""
+
+#: elements/icon-box.php:200
+msgid "SVG Background"
+msgstr ""
+
+#: elements/icon-box.php:228 elements/icon-box.php:255
+msgid "Choose Background Image"
+msgstr ""
+
+#: elements/icon-box.php:271
+msgid "Icon Box Title"
+msgstr ""
+
+#: elements/icon-box.php:274
+msgid "Enter Icon Box Title"
+msgstr ""
+
+#: elements/icon-box.php:282
+msgid "Icon Box Information"
+msgstr ""
+
+#: elements/icon-box.php:286
+msgid "Enter Your Custom Information"
+msgstr ""
+
+#: elements/icon-box.php:293
+msgid "Add Title Link"
+msgstr ""
+
+#: elements/icon-box.php:305
+msgid "Image Box Title Link"
+msgstr ""
+
+#: elements/icon-box.php:327 elements/services-listing.php:1126
+#: elements/tabs.php:584
+msgid "Icon Settings"
+msgstr ""
+
+#: elements/icon-box.php:335 elements/services-listing.php:1137
+msgid "Icon Container Size"
+msgstr ""
+
+#: elements/icon-box.php:352
+msgid "Icon Background Size"
+msgstr ""
+
+#: elements/icon-box.php:413
+msgid "Icon Shadow"
+msgstr ""
+
+#: elements/icon-box.php:462
+msgid "Background SVG Color"
+msgstr ""
+
+#: elements/icon-box.php:476 elements/price-item.php:282
+#: elements/services-listing.php:1052 elements/services-listing.php:1096
+#: elements/step-carousel.php:516
+msgid "Background Color"
+msgstr ""
+
+#: elements/icon-box.php:502 elements/icon-box.php:516
+msgid "Icon Color on Hover"
+msgstr ""
+
+#: elements/icon-box.php:530
+msgid "Background SVG on Hover"
+msgstr ""
+
+#: elements/icon-box.php:544
+msgid "Background Color on Hover"
+msgstr ""
+
+#: elements/icon-box.php:562 elements/services-listing.php:1173
+msgid "Icon Margins"
+msgstr ""
+
+#: elements/icon-box.php:623
+msgid "Title Color on Hover"
+msgstr ""
+
+#: elements/icon-box.php:643
+msgid "Information Text Settings"
+msgstr ""
+
+#: elements/icon-box.php:651
+msgid "Information Color"
+msgstr ""
+
+#: elements/icon-box.php:664
+msgid "Information Typography"
+msgstr ""
+
+#: elements/icon-box.php:672
+msgid "Space Between Title and Text"
+msgstr ""
+
+#: elements/icon-box.php:771
+msgid "Background Image"
+msgstr ""
+
+#: elements/image-carousel.php:32 elements/image-carousel.php:59
+msgid "Image Carousel"
+msgstr ""
+
+#: elements/image-carousel.php:70 elements/step-carousel.php:62
+#: elements/step-carousel.php:76 elements/testimonial-carousel.php:63
+msgid "Type 1"
+msgstr ""
+
+#: elements/image-carousel.php:71 elements/services-listing.php:78
+#: elements/step-carousel.php:63 elements/step-carousel.php:77
+#: elements/testimonial-carousel.php:64
+msgid "Type 2"
+msgstr ""
+
+#: elements/image-carousel.php:101 elements/projects-listing.php:140
+#: elements/services-listing.php:117 elements/step-carousel.php:107
+msgid "This is subheading element"
+msgstr ""
+
+#: elements/image-carousel.php:133 elements/projects-listing.php:176
+#: elements/services-listing.php:153 elements/step-carousel.php:139
+msgid "Title Alignment"
+msgstr ""
+
+#: elements/image-carousel.php:190 elements/step-carousel.php:196
+msgid "Description"
+msgstr ""
+
+#: elements/image-carousel.php:194
+msgid "Enter Description"
+msgstr ""
+
+#: elements/image-carousel.php:226 elements/projects-listing.php:534
+msgid "Visible Items"
+msgstr ""
+
+#: elements/image-carousel.php:549
+msgid "Item Alignment"
+msgstr ""
+
+#: elements/image-carousel.php:667
+msgid "Width"
+msgstr ""
+
+#: elements/image-carousel.php:702
+msgid "Max Width"
+msgstr ""
+
+#: elements/image-carousel.php:737
+msgid "Height"
+msgstr ""
+
+#: elements/image-carousel.php:861
+msgid "Hover Animation"
+msgstr ""
+
+#: elements/image-carousel.php:928
+msgid "Space between title and image"
+msgstr ""
+
+#: elements/image-carousel.php:946 elements/price-item.php:726
+#: elements/step-carousel.php:817
+msgid "Description Typography"
+msgstr ""
+
+#: elements/image-carousel.php:955
+msgid "Space between description and image"
+msgstr ""
+
+#: elements/image-carousel.php:995 elements/image-carousel.php:1030
+#: elements/price-item.php:734 elements/step-carousel.php:825
+msgid "Description Color"
+msgstr ""
+
+#: elements/mailchimp.php:29
+msgid "MailChimp"
+msgstr ""
+
+#: elements/mailchimp.php:56 elements/wpforms.php:56
+msgid "Display Form"
+msgstr ""
+
+#: elements/mailchimp.php:135 elements/wpforms.php:326
+msgid "Fields Settings"
+msgstr ""
+
+#: elements/mailchimp.php:145 elements/wpforms.php:336
+msgid "Field Typography"
+msgstr ""
+
+#: elements/mailchimp.php:169 elements/wpforms.php:361
+msgid "Floating Placeholder Typography"
+msgstr ""
+
+#: elements/mailchimp.php:177 elements/wpforms.php:493
+msgid "Field Background Color"
+msgstr ""
+
+#: elements/mailchimp.php:205 elements/wpforms.php:521
+msgid "Field Placeholder Background Color"
+msgstr ""
+
+#: elements/mailchimp.php:228 elements/mailchimp.php:312
+#: elements/wpforms.php:369
+msgid "Field Color"
+msgstr ""
+
+#: elements/mailchimp.php:254 elements/mailchimp.php:338
+#: elements/wpforms.php:436
+msgid "Field Border Color"
+msgstr ""
+
+#: elements/mailchimp.php:281 elements/mailchimp.php:364
+#: elements/wpforms.php:395
+msgid "Field Placeholder Color"
+msgstr ""
+
+#: elements/mailchimp.php:390 elements/wpforms.php:532
+msgid "Field Dark Color"
+msgstr ""
+
+#: elements/mailchimp.php:404 elements/wpforms.php:545
+msgid "Field Accent Color"
+msgstr ""
+
+#: elements/mailchimp.php:420 elements/wpforms.php:561
+msgid "Range Thumb Color"
+msgstr ""
+
+#: elements/mailchimp.php:437 elements/price-item.php:435
+#: elements/step-carousel.php:783 elements/wpforms.php:578
+msgid "Label Typography"
+msgstr ""
+
+#: elements/mailchimp.php:445 elements/price-item.php:443
+#: elements/step-carousel.php:791 elements/wpforms.php:586
+msgid "Label Color"
+msgstr ""
+
+#: elements/mailchimp.php:590 elements/mailchimp.php:682
+#: elements/wpforms.php:774 elements/wpforms.php:877
+msgid "Button Shadow"
+msgstr ""
+
+#: elements/moving-list.php:30 elements/moving-list.php:53
+msgid "Moving List"
+msgstr ""
+
+#: elements/moving-list.php:89 elements/projects-listing.php:1181
+msgid "Item Background"
+msgstr ""
+
+#: elements/moving-list.php:152 elements/services-listing.php:910
+msgid "Item Height"
+msgstr ""
+
+#: elements/moving-list.php:170
+msgid "Moving List Items"
+msgstr ""
+
+#: elements/moving-list.php:187
+msgid "Moving List Settings"
+msgstr ""
+
+#: elements/moving-list.php:221
+msgid "Items Spacing"
+msgstr ""
+
+#: elements/moving-list.php:243
+msgid "Items Width"
+msgstr ""
+
+#: elements/moving-list.php:265
+msgid "Items Height"
+msgstr ""
+
+#: elements/moving-list.php:283 elements/team-members.php:313
+msgid "Items Border Radius"
+msgstr ""
+
+#: elements/moving-list.php:295
+msgid "Items Overflow"
+msgstr ""
+
+#: elements/moving-list.php:350
+msgid "Items Background"
+msgstr ""
+
+#: elements/nav-menu.php:29 elements/nav-menu.php:48
+msgid "Navigation Menu"
+msgstr ""
+
+#: elements/nav-menu.php:53
+msgid "Select your menu"
+msgstr ""
+
+#: elements/nav-menu.php:55
+msgid "No menus"
+msgstr ""
+
+#: elements/nav-menu.php:61 elements/nav-menu.php:188 widgets/nav-menu.php:23
+msgid "Menu"
+msgstr ""
+
+#: elements/nav-menu.php:71
+msgid "Menu Columns"
+msgstr ""
+
+#: elements/nav-menu.php:75 widgets/nav-menu.php:130
+msgid "One"
+msgstr ""
+
+#: elements/nav-menu.php:76 widgets/nav-menu.php:131
+msgid "Two"
+msgstr ""
+
+#: elements/nav-menu.php:77 widgets/nav-menu.php:132
+msgid "Three"
+msgstr ""
+
+#: elements/price-item.php:30 elements/price-item.php:49
+msgid "Price Item"
+msgstr ""
+
+#: elements/price-item.php:56
+msgid "Price Item Type"
+msgstr ""
+
+#: elements/price-item.php:60
+msgid "Standard"
+msgstr ""
+
+#: elements/price-item.php:61
+msgid "Wide"
+msgstr ""
+
+#: elements/price-item.php:69
+msgid "Price Item Style"
+msgstr ""
+
+#: elements/price-item.php:82
+msgid "Highlight this block?"
+msgstr ""
+
+#: elements/price-item.php:103
+msgid "Label"
+msgstr ""
+
+#: elements/price-item.php:112
+msgid "Short Description"
+msgstr ""
+
+#: elements/price-item.php:113 elements/step-carousel.php:197
+msgid "Enter description"
+msgstr ""
+
+#: elements/price-item.php:144
+msgid "Currency"
+msgstr ""
+
+#: elements/price-item.php:154
+msgid "Currency Position"
+msgstr ""
+
+#: elements/price-item.php:158
+msgid "Before Price"
+msgstr ""
+
+#: elements/price-item.php:159
+msgid "After Price"
+msgstr ""
+
+#: elements/price-item.php:167
+msgid "Price"
+msgstr ""
+
+#: elements/price-item.php:176
+msgid "Period"
+msgstr ""
+
+#: elements/price-item.php:178
+msgid "month"
+msgstr ""
+
+#: elements/price-item.php:191
+msgid "Enter Text"
+msgstr ""
+
+#: elements/price-item.php:210
+msgid "Custom Fields"
+msgstr ""
+
+#: elements/price-item.php:229
+msgid "Get started"
+msgstr ""
+
+#: elements/price-item.php:255
+msgid "Price Item Settings"
+msgstr ""
+
+#: elements/price-item.php:278 elements/price-item.php:293
+msgid "Background"
+msgstr ""
+
+#: elements/price-item.php:297
+msgid "Additional Background"
+msgstr ""
+
+#: elements/price-item.php:358 elements/projects-listing.php:1248
+#: elements/projects-listing.php:1264 elements/services-listing.php:931
+#: elements/step-carousel.php:528
+msgid "Item Padding"
+msgstr ""
+
+#: elements/price-item.php:404
+msgid "Space After Title"
+msgstr ""
+
+#: elements/price-item.php:426 elements/step-carousel.php:771
+msgid "Label Settings"
+msgstr ""
+
+#: elements/price-item.php:454
+msgid "Label Background Color"
+msgstr ""
+
+#: elements/price-item.php:467
+msgid "Label Padding"
+msgstr ""
+
+#: elements/price-item.php:495
+msgid "Space After Image"
+msgstr ""
+
+#: elements/price-item.php:520
+msgid "Price Block Settings"
+msgstr ""
+
+#: elements/price-item.php:529 elements/products.php:354
+msgid "Price Typography"
+msgstr ""
+
+#: elements/price-item.php:537
+msgid "Price Color"
+msgstr ""
+
+#: elements/price-item.php:550
+msgid "Currency Typography"
+msgstr ""
+
+#: elements/price-item.php:558
+msgid "Currency Color"
+msgstr ""
+
+#: elements/price-item.php:571
+msgid "Period Typography"
+msgstr ""
+
+#: elements/price-item.php:579
+msgid "Period Color"
+msgstr ""
+
+#: elements/price-item.php:591
+msgid "Space After Price"
+msgstr ""
+
+#: elements/price-item.php:621
+msgid "Space Between Fields"
+msgstr ""
+
+#: elements/price-item.php:639
+msgid "Custom Fields Typography"
+msgstr ""
+
+#: elements/price-item.php:648
+msgid "Space After Content"
+msgstr ""
+
+#: elements/price-item.php:680 elements/price-item.php:703
+msgid "Custom Fields Text Color"
+msgstr ""
+
+#: elements/price-item.php:745
+msgid "Space After Description"
+msgstr ""
+
+#: elements/products.php:29
+msgid "Products"
+msgstr ""
+
+#: elements/products.php:56
+msgid "Display Product"
+msgstr ""
+
+#: elements/products.php:63
+msgid "Products Type"
+msgstr ""
+
+#: elements/products.php:68
+msgid "On sale products"
+msgstr ""
+
+#: elements/products.php:69
+msgid "The best selling products"
+msgstr ""
+
+#: elements/products.php:70
+msgid "Top-rated products"
+msgstr ""
+
+#: elements/products.php:78
+msgid "Limit"
+msgstr ""
+
+#: elements/products.php:79
+msgid "The number of products to display"
+msgstr ""
+
+#: elements/products.php:91
+msgid "The number of columns to display."
+msgstr ""
+
+#: elements/products.php:103
+msgid "Toggles pagination on. Use in conjunction with \"limit\""
+msgstr ""
+
+#: elements/products.php:114
+msgid "Orderby"
+msgstr ""
+
+#: elements/products.php:116
+msgid "Sorts the products displayed by the entered option."
+msgstr ""
+
+#: elements/products.php:121
+msgid "Menu order"
+msgstr ""
+
+#: elements/products.php:122
+msgid "Popularity"
+msgstr ""
+
+#: elements/products.php:124
+msgid "Rating"
+msgstr ""
+
+#: elements/products.php:137
+msgid "ASC"
+msgstr ""
+
+#: elements/products.php:138
+msgid "DESC"
+msgstr ""
+
+#: elements/products.php:170
+msgid "SKUs"
+msgstr ""
+
+#: elements/products.php:172
+msgid "Comma-separated list of product SKUs."
+msgstr ""
+
+#: elements/products.php:174
+msgid "Enter SKU list"
+msgstr ""
+
+#: elements/products.php:183
+msgid "Comma-separated list of tag slugs."
+msgstr ""
+
+#: elements/products.php:185
+msgid "Enter tags list"
+msgstr ""
+
+#: elements/products.php:197
+msgid "Product Item Settings"
+msgstr ""
+
+#: elements/products.php:284
+msgid "Product Content Settings"
+msgstr ""
+
+#: elements/products.php:337 elements/step-carousel.php:725
+msgid "Title Hover"
+msgstr ""
+
+#: elements/products.php:363
+msgid "Current Price Color"
+msgstr ""
+
+#: elements/products.php:374
+msgid "New Price Color"
+msgstr ""
+
+#: elements/products.php:385
+msgid "Old Price Color"
+msgstr ""
+
+#: elements/products.php:396
+msgid "Rating Inactive Color"
+msgstr ""
+
+#: elements/products.php:408
+msgid "Rating Active Color"
+msgstr ""
+
+#: elements/products.php:426
+msgid "Product Button Settings"
+msgstr ""
+
+#: elements/products.php:434
+msgid "Product Button Background Style"
+msgstr ""
+
+#: elements/products.php:485 elements/products.php:539
+msgid "Button Background Gradient"
+msgstr ""
+
+#: elements/products.php:556
+msgid "Added to Cart Button Text Color"
+msgstr ""
+
+#: elements/products.php:568
+msgid "Added to Cart Button Background Color"
+msgstr ""
+
+#: elements/products.php:582
+msgid "Added to Cart Button Background Gradient"
+msgstr ""
+
+#: elements/projects-listing.php:30 elements/projects-listing.php:57
+msgid "Projects Listing"
+msgstr ""
+
+#: elements/projects-listing.php:71
+msgid "Modern"
+msgstr ""
+
+#: elements/projects-listing.php:72
+msgid "Cards"
+msgstr ""
+
+#: elements/projects-listing.php:80
+msgid "Content Type"
+msgstr ""
+
+#: elements/projects-listing.php:96
+msgid "Content Position"
+msgstr ""
+
+#: elements/projects-listing.php:100
+msgid "Inside"
+msgstr ""
+
+#: elements/projects-listing.php:101
+msgid "Outside"
+msgstr ""
+
+#: elements/projects-listing.php:204
+msgid "Add Button"
+msgstr ""
+
+#: elements/projects-listing.php:309
+msgid "Choose Projects"
+msgstr ""
+
+#: elements/projects-listing.php:368
+msgid "More Button Text"
+msgstr ""
+
+#: elements/projects-listing.php:371
+msgid "Explore more"
+msgstr ""
+
+#: elements/projects-listing.php:381
+msgid "Audio Button Text"
+msgstr ""
+
+#: elements/projects-listing.php:384
+msgid "Listen speech"
+msgstr ""
+
+#: elements/projects-listing.php:400
+msgid "Modern Settings"
+msgstr ""
+
+#: elements/projects-listing.php:498
+msgid "Cards Settings"
+msgstr ""
+
+#: elements/projects-listing.php:673
+msgid "Slider Offset"
+msgstr ""
+
+#: elements/projects-listing.php:716
+msgid "Filter Border Style"
+msgstr ""
+
+#: elements/projects-listing.php:730
+msgid "Filter Background Style"
+msgstr ""
+
+#: elements/projects-listing.php:764 elements/projects-listing.php:856
+msgid "Filter Border Color"
+msgstr ""
+
+#: elements/projects-listing.php:795 elements/projects-listing.php:887
+msgid "Filter Background Color"
+msgstr ""
+
+#: elements/projects-listing.php:1027
+msgid "Slide Height"
+msgstr ""
+
+#: elements/projects-listing.php:1086 elements/services-listing.php:961
+msgid "Item Content Padding"
+msgstr ""
+
+#: elements/projects-listing.php:1117 elements/services-listing.php:833
+#: elements/step-carousel.php:491
+msgid "Heading Padding"
+msgstr ""
+
+#: elements/projects-listing.php:1279
+msgid "Item Content Width"
+msgstr ""
+
+#: elements/projects-listing.php:1301
+msgid "Item Wrapper Height"
+msgstr ""
+
+#: elements/projects-listing.php:1343
+msgid "Project Name Typography"
+msgstr ""
+
+#: elements/projects-listing.php:1352
+msgid "Name Color Default"
+msgstr ""
+
+#: elements/projects-listing.php:1374 elements/projects-listing.php:1410
+#: elements/team-members.php:415 elements/team-members.php:434
+msgid "Name Color"
+msgstr ""
+
+#: elements/projects-listing.php:1438
+msgid "Content Maximum Width"
+msgstr ""
+
+#: elements/projects-listing.php:1531
+msgid "Audio Content Image Odd"
+msgstr ""
+
+#: elements/projects-listing.php:1543
+msgid "Audio Content Image Even"
+msgstr ""
+
+#: elements/projects-listing.php:1581
+msgid "Categories Border Style"
+msgstr ""
+
+#: elements/projects-listing.php:1595
+msgid "Categories Background Style"
+msgstr ""
+
+#: elements/projects-listing.php:1609
+msgid "Categories Text Color Default"
+msgstr ""
+
+#: elements/projects-listing.php:1623
+msgid "Categories Border Color Default"
+msgstr ""
+
+#: elements/projects-listing.php:1641
+msgid "Border Color Gradient Default"
+msgstr ""
+
+#: elements/projects-listing.php:1656
+msgid "Categories Background Color Default"
+msgstr ""
+
+#: elements/projects-listing.php:1674
+msgid "Background Color Gradient Default"
+msgstr ""
+
+#: elements/projects-listing.php:1698 elements/projects-listing.php:1781
+msgid "Categories Text Color"
+msgstr ""
+
+#: elements/projects-listing.php:1740 elements/projects-listing.php:1823
+msgid "Categories Background Color"
+msgstr ""
+
+#: elements/projects-listing.php:1862
+msgid "Audio Button Settings"
+msgstr ""
+
+#: elements/projects-listing.php:1875
+msgid "Audio Button Typography"
+msgstr ""
+
+#: elements/projects-listing.php:1883
+msgid "Audio Button Border Style"
+msgstr ""
+
+#: elements/projects-listing.php:1897
+msgid "Audio Button Background Style"
+msgstr ""
+
+#: elements/projects-listing.php:1920 elements/projects-listing.php:2012
+msgid "Audio Button Text Color"
+msgstr ""
+
+#: elements/projects-listing.php:1931 elements/projects-listing.php:2024
+msgid "Audio Button Border Color"
+msgstr ""
+
+#: elements/projects-listing.php:1948 elements/projects-listing.php:2042
+msgid "Audio Button Border Color Gradient"
+msgstr ""
+
+#: elements/projects-listing.php:1962 elements/projects-listing.php:2056
+msgid "Audio Button Background Color"
+msgstr ""
+
+#: elements/projects-listing.php:1994 elements/projects-listing.php:2089
+msgid "Audio Button Shadow"
+msgstr ""
+
+#: elements/projects-listing.php:2100
+msgid "Audio Button Remove Box Shadow"
+msgstr ""
+
+#: elements/projects-listing.php:2121
+msgid "Audio Button Border Width"
+msgstr ""
+
+#: elements/projects-listing.php:2133
+msgid "Audio Button Border Radius"
+msgstr ""
+
+#: elements/projects-listing.php:2145
+msgid "Audio Button Padding"
+msgstr ""
+
+#: elements/projects-listing.php:2163
+msgid "Slider Button Settings"
+msgstr ""
+
+#: elements/projects-listing.php:2551 elements/services-listing.php:2250
+#: elements/step-carousel.php:936
+msgid "Slider Arrows Border Style"
+msgstr ""
+
+#: elements/projects-listing.php:2586 elements/services-listing.php:2285
+#: elements/step-carousel.php:971
+msgid "Slider Arrows Border Gradient"
+msgstr ""
+
+#: elements/projects-listing.php:2655
+msgid "Slider Arrows Border Width"
+msgstr ""
+
+#: elements/services-listing.php:29 elements/services-listing.php:52
+msgid "Services Listing"
+msgstr ""
+
+#: elements/services-listing.php:73 elements/step-carousel.php:72
+msgid "Style Type"
+msgstr ""
+
+#: elements/services-listing.php:238
+msgid "Choose Services"
+msgstr ""
+
+#: elements/services-listing.php:292
+msgid "Show Media"
+msgstr ""
+
+#: elements/services-listing.php:352
+msgid "Icon Type"
+msgstr ""
+
+#: elements/services-listing.php:403
+msgid "Icon Alignment"
+msgstr ""
+
+#: elements/services-listing.php:643
+msgid "Slider Padding"
+msgstr ""
+
+#: elements/services-listing.php:655
+msgid "Slider Overflow"
+msgstr ""
+
+#: elements/services-listing.php:660
+msgid "Visible"
+msgstr ""
+
+#: elements/services-listing.php:713
+msgid "List Settings"
+msgstr ""
+
+#: elements/services-listing.php:806 elements/step-carousel.php:464
+msgid "Space between Heading and Subheading"
+msgstr ""
+
+#: elements/services-listing.php:946
+msgid "Item Media Padding"
+msgstr ""
+
+#: elements/services-listing.php:1185
+msgid "Icon Opacity"
+msgstr ""
+
+#: elements/services-listing.php:1275
+msgid "Title Counter Typography"
+msgstr ""
+
+#: elements/services-listing.php:1286
+msgid "Space Between Title and Excerpt"
+msgstr ""
+
+#: elements/services-listing.php:1318
+msgid "Title Hover Color Style"
+msgstr ""
+
+#: elements/services-listing.php:1434 elements/services-listing.php:1577
+msgid "Slider Icon Color"
+msgstr ""
+
+#: elements/services-listing.php:1448 elements/services-listing.php:1591
+msgid "Slider Icon Background Color"
+msgstr ""
+
+#: elements/services-listing.php:1462
+msgid "Slider Icon Container Background Color"
+msgstr ""
+
+#: elements/services-listing.php:1506
+msgid "Title Hover Color Gradient"
+msgstr ""
+
+#: elements/special-text.php:29 elements/special-text.php:48
+#: elements/special-text.php:71
+msgid "Special Text"
+msgstr ""
+
+#: elements/special-text.php:55
+msgid "Select Effect"
+msgstr ""
+
+#: elements/special-text.php:60
+msgid "Stroke"
+msgstr ""
+
+#: elements/special-text.php:61
+msgid "Fill"
+msgstr ""
+
+#: elements/special-text.php:142
+msgid "Text Settings"
+msgstr ""
+
+#: elements/special-text.php:210 elements/special-text.php:212
+msgid "Text Gradient"
+msgstr ""
+
+#: elements/special-text.php:247
+msgid "Add Text Animation"
+msgstr ""
+
+#: elements/special-text.php:259
+msgid "Duplicate Text, times"
+msgstr ""
+
+#: elements/special-text.php:274
+msgid "Text Animation Direction"
+msgstr ""
+
+#: elements/special-text.php:290
+msgid "Animation Duration, s"
+msgstr ""
+
+#: elements/step-carousel.php:28 elements/step-carousel.php:51
+msgid "Step Carousel"
+msgstr ""
+
+#: elements/step-carousel.php:165
+msgid "Step Number"
+msgstr ""
+
+#: elements/step-carousel.php:167
+msgid "01"
+msgstr ""
+
+#: elements/step-carousel.php:175
+msgid "Step Label"
+msgstr ""
+
+#: elements/step-carousel.php:177
+msgid "step"
+msgstr ""
+
+#: elements/step-carousel.php:178
+msgid "This label is only available for Style Type 2 view"
+msgstr ""
+
+#: elements/step-carousel.php:206
+msgid "Steps"
+msgstr ""
+
+#: elements/step-carousel.php:508
+msgid "Step Item Settings"
+msgstr ""
+
+#: elements/step-carousel.php:575
+msgid "Space after border"
+msgstr ""
+
+#: elements/step-carousel.php:600
+msgid "Number Settings"
+msgstr ""
+
+#: elements/step-carousel.php:609
+msgid "Number Typography"
+msgstr ""
+
+#: elements/step-carousel.php:617
+msgid "Number Color"
+msgstr ""
+
+#: elements/step-carousel.php:663
+msgid "Text Background"
+msgstr ""
+
+#: elements/step-carousel.php:672
+msgid "Space after number"
+msgstr ""
+
+#: elements/step-carousel.php:737
+msgid "Space between title and description"
+msgstr ""
+
+#: elements/step-carousel.php:754
+msgid "Step Content Padding"
+msgstr ""
+
+#: elements/step-carousel.php:808
+msgid "Description Settings"
+msgstr ""
+
+#: elements/tabs.php:30 elements/tabs.php:53 elements/tabs.php:138
+msgid "Tabs"
+msgstr ""
+
+#: elements/tabs.php:60
+msgid "Tabs Direction"
+msgstr ""
+
+#: elements/tabs.php:64
+msgid "Horizontal"
+msgstr ""
+
+#: elements/tabs.php:65
+msgid "Vertical"
+msgstr ""
+
+#: elements/tabs.php:76
+msgid "Tab Title"
+msgstr ""
+
+#: elements/tabs.php:78
+msgid "Tab"
+msgstr ""
+
+#: elements/tabs.php:97
+msgid "Tab Description"
+msgstr ""
+
+#: elements/tabs.php:117 elements/tabs.php:630
+msgid "Icon Spacing"
+msgstr ""
+
+#: elements/tabs.php:129
+msgid "Element ID"
+msgstr ""
+
+#: elements/tabs.php:131
+msgid "Enter Element ID without #"
+msgstr ""
+
+#: elements/tabs.php:150
+msgid "Tabs Alignment"
+msgstr ""
+
+#: elements/tabs.php:182
+msgid "Tab Title Settings"
+msgstr ""
+
+#: elements/tabs.php:205
+msgid "Vertical Space Between Tabs"
+msgstr ""
+
+#: elements/tabs.php:220
+msgid "Tab Title Horizontal Alignment"
+msgstr ""
+
+#: elements/tabs.php:250
+msgid "Tab Title Vertical Alignment"
+msgstr ""
+
+#: elements/tabs.php:276
+msgid "Tab Title Text Alignment"
+msgstr ""
+
+#: elements/tabs.php:302
+msgid "Tabs Padding"
+msgstr ""
+
+#: elements/tabs.php:314
+msgid "Tabs Width"
+msgstr ""
+
+#: elements/tabs.php:326
+msgid "Space Between Title and Description"
+msgstr ""
+
+#: elements/tabs.php:339
+msgid "Tabs Border"
+msgstr ""
+
+#: elements/tabs.php:349
+msgid "Tabs Radius"
+msgstr ""
+
+#: elements/tabs.php:362
+msgid "Tab Title Typography"
+msgstr ""
+
+#: elements/tabs.php:371
+msgid "Tab Description Typography"
+msgstr ""
+
+#: elements/tabs.php:379
+msgid "Add Title Overlay"
+msgstr ""
+
+#: elements/tabs.php:392
+msgid "Tab Title Overlay Color"
+msgstr ""
+
+#: elements/tabs.php:418
+msgid "Tab Title Color"
+msgstr ""
+
+#: elements/tabs.php:429
+msgid "Tab Title Background"
+msgstr ""
+
+#: elements/tabs.php:440
+msgid "Tab Title Border Color"
+msgstr ""
+
+#: elements/tabs.php:451
+msgid "Tab Description Color"
+msgstr ""
+
+#: elements/tabs.php:474
+msgid "Active Tab Title Color"
+msgstr ""
+
+#: elements/tabs.php:485
+msgid "Active Tab Title Background"
+msgstr ""
+
+#: elements/tabs.php:496
+msgid "Active Tab Title Border Color"
+msgstr ""
+
+#: elements/tabs.php:507
+msgid "Active Tab Description Color"
+msgstr ""
+
+#: elements/tabs.php:530
+msgid "Tab Title on Hover"
+msgstr ""
+
+#: elements/tabs.php:541
+msgid "Tab Title Background on Hover"
+msgstr ""
+
+#: elements/tabs.php:552
+msgid "Tab Title Border Color on Hover"
+msgstr ""
+
+#: elements/tabs.php:563
+msgid "Tab Description on Hover"
+msgstr ""
+
+#: elements/tabs.php:653
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elements/tabs.php:664
+msgid "Icon Active Color"
+msgstr ""
+
+#: elements/team-members.php:59
+msgid "Listing Ladder Style"
+msgstr ""
+
+#: elements/team-members.php:64
+msgid "Even"
+msgstr ""
+
+#: elements/team-members.php:65
+msgid "Odd"
+msgstr ""
+
+#: elements/team-members.php:74
+msgid "Space Before Items"
+msgstr ""
+
+#: elements/team-members.php:147
+msgid "Choose Team Members"
+msgstr ""
+
+#: elements/team-members.php:332
+msgid "Media Settings"
+msgstr ""
+
+#: elements/team-members.php:340
+msgid "Image Overlay Background Color"
+msgstr ""
+
+#: elements/team-members.php:352
+msgid "Tag Typography"
+msgstr ""
+
+#: elements/team-members.php:360
+msgid "Tag Color"
+msgstr ""
+
+#: elements/team-members.php:399
+msgid "Name Typography"
+msgstr ""
+
+#: elements/team-members.php:455
+msgid "Position Typography"
+msgstr ""
+
+#: elements/team-members.php:463
+msgid "Position Color"
+msgstr ""
+
+#: elements/team-members.php:480
+msgid "Social Buttons Settings"
+msgstr ""
+
+#: elements/team-members.php:536
+msgid "Hovered Icon Color"
+msgstr ""
+
+#: elements/testimonial-carousel.php:29 elements/testimonial-carousel.php:52
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: elements/testimonial-carousel.php:74
+msgid "Testimonial Text"
+msgstr ""
+
+#: elements/testimonial-carousel.php:78
+msgid "Enter Testimonial Text"
+msgstr ""
+
+#: elements/testimonial-carousel.php:86
+msgid "Choose Author Photo"
+msgstr ""
+
+#: elements/testimonial-carousel.php:97
+msgid "Author Name"
+msgstr ""
+
+#: elements/testimonial-carousel.php:107
+msgid "Author Position"
+msgstr ""
+
+#: elements/testimonial-carousel.php:117
+msgid "Testimonials"
+msgstr ""
+
+#: elements/testimonial-carousel.php:205
+msgid "Buttons Alignment"
+msgstr ""
+
+#: elements/testimonial-carousel.php:319
+msgid "Testimonial Settings"
+msgstr ""
+
+#: elements/testimonial-carousel.php:353
+msgid "Testimonials Border Radius"
+msgstr ""
+
+#: elements/testimonial-carousel.php:365
+msgid "Testimonials Padding"
+msgstr ""
+
+#: elements/testimonial-carousel.php:378
+msgid "Testimonials Background"
+msgstr ""
+
+#: elements/testimonial-carousel.php:400
+msgid "Author Style"
+msgstr ""
+
+#: elements/testimonial-carousel.php:404
+msgid "Style 1"
+msgstr ""
+
+#: elements/testimonial-carousel.php:405
+msgid "Style 2"
+msgstr ""
+
+#: elements/testimonial-carousel.php:413
+msgid "Testimonial Icon Size"
+msgstr ""
+
+#: elements/testimonial-carousel.php:427
+msgid "Testimonial Text Typography"
+msgstr ""
+
+#: elements/testimonial-carousel.php:436
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: elements/testimonial-carousel.php:447
+msgid "Testimonial Info Color"
+msgstr ""
+
+#: elements/testimonial-carousel.php:460
+msgid "Author Name Typography"
+msgstr ""
+
+#: elements/testimonial-carousel.php:469
+msgid "Author Name Color"
+msgstr ""
+
+#: elements/testimonial-carousel.php:482
+msgid "Author Position Typography"
+msgstr ""
+
+#: elements/testimonial-carousel.php:490
+msgid "Author Position Color"
+msgstr ""
+
+#: elements/video-button.php:30
+msgid "Video Button"
+msgstr ""
+
+#: elements/video-button.php:53
+msgid "Video"
+msgstr ""
+
+#: elements/video-button.php:213
+msgid "Play video"
+msgstr ""
+
+#: elements/video-button.php:248
+msgid "Hide Icon"
+msgstr ""
+
+#: elements/video-button.php:279
+msgid "Video Button Settings"
+msgstr ""
+
+#: elements/video-button.php:298
+msgid "Trigger Button Size"
+msgstr ""
+
+#: elements/video-button.php:357
+msgid "Button Background Image"
+msgstr ""
+
+#: elements/video-button.php:519
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: elements/wpforms.php:29
+msgid "WPForms"
+msgstr ""
+
+#: elements/wpforms.php:71
+msgid "Select your form"
+msgstr ""
+
+#: elements/wpforms.php:80
+msgid "No forms"
+msgstr ""
+
+#: elements/wpforms.php:85
+msgid "Form"
+msgstr ""
+
+#: elements/wpforms.php:95
+msgid "Display form name"
+msgstr ""
+
+#: elements/wpforms.php:106
+msgid "Display form description"
+msgstr ""
+
+#: elements/wpforms.php:143
+msgid "Space Before Submit Button"
+msgstr ""
+
+#: elements/wpforms.php:155
+msgid "Text Field Height"
+msgstr ""
+
+#: elements/wpforms.php:244
+msgid "Form Header Settings"
+msgstr ""
+
+#: elements/wpforms.php:268
+msgid "Form Name Typography"
+msgstr ""
+
+#: elements/wpforms.php:279
+msgid "Form Name Color"
+msgstr ""
+
+#: elements/wpforms.php:295
+msgid "Form Description Typography"
+msgstr ""
+
+#: elements/wpforms.php:306
+msgid "Form Description Color"
+msgstr ""
+
+#: elements/wpforms.php:414
+msgid "Field Focus Placeholder Color"
+msgstr ""
+
+#: elements/wpforms.php:464
+msgid "Field Focus Border Color"
+msgstr ""
+
+#: elements/wpforms.php:597
+msgid "Required Field Sign Color"
+msgstr ""
+
+#: elements/wpforms.php:611
+msgid "Field Description Typography"
+msgstr ""
+
+#: elements/wpforms.php:619
+msgid "Field Description Color"
+msgstr ""
+
+#: widgets/nav-menu.php:13
+msgid "Navigation Menu Widget by Aiero Theme"
+msgstr ""
+
+#: widgets/nav-menu.php:104
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: widgets/nav-menu.php:109
+msgid "Title:"
+msgstr ""
+
+#: widgets/nav-menu.php:115
+msgid "Select Menu:"
+msgstr ""
+
+#: widgets/nav-menu.php:118
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: widgets/nav-menu.php:127
+msgid "Number of columns:"
+msgstr ""
+
+#: widgets/nav-menu.php:137
+msgid "Edit Menu"
+msgstr ""
+
+#: widgets/special-text.php:13
+msgid "Special Text Widget by Aiero Theme"
+msgstr ""

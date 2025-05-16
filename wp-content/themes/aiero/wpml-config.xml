@@ -1,0 +1,285 @@
+<wpml-config>
+    <custom-fields>
+		<custom-field action="translate" style="textarea" label="Quote Text">post_media_quote_text</custom-field>
+		<custom-field action="translate" style="line" label="Quote Author Name">post_media_quote_author</custom-field>
+		<custom-field action="translate" style="line" label="Recent Posts Section Title">recent_posts_section_heading</custom-field>
+		<custom-field action="translate" style="visual" label="Project Description">project_description</custom-field>
+		<custom-field action="translate" style="line" label="Year">project_year</custom-field>
+		<custom-field action="translate" style="line" label="Strategy">project_strategy</custom-field>
+		<custom-field action="translate" style="line" label="Design">project_design</custom-field>
+		<custom-field action="translate" style="line" label="Client">project_client</custom-field>
+		<custom-field action="translate" style="line" label="Link Button">project_button</custom-field>
+		<custom-field action="translate" style="line" label="Position">team_member_position</custom-field>
+		<custom-field action="translate" style="line" label="Team Member Tag">team_member_tag</custom-field>
+		<custom-field action="translate" style="visual" label="Member Short Info">team_member_short_text</custom-field>
+		<custom-field action="translate" style="line" label="Experience &amp; Education Section Title">team_member_experience_title</custom-field>
+		<custom-field action="translate" style="line" label="Education List">team_member_education_list</custom-field>
+		<custom-field action="translate" style="line" label="Experience List">team_member_experience_list</custom-field>
+		<custom-field action="translate" style="line" label="Contact Information Title">team_member_contact_info_title</custom-field>
+		<custom-field action="translate" style="line" label="Contact Information Item">team_member_contact_info_item</custom-field>
+		<custom-field action="translate" style="line" label="Contact Information E-mail">team_member_email</custom-field>
+		<custom-field action="translate" style="line" label="Achievement Boxes">team_member_boxes</custom-field>
+		<custom-field action="translate" style="line" label="Responsibilities Title">team_member_responsibilities_title</custom-field>
+		<custom-field action="translate" style="line" label="Responsibilities List">team_member_responsibilities_list</custom-field>
+		<custom-field action="translate" style="line" label="Service Subtitle">service_subtitle</custom-field>
+		<custom-field action="translate" style="line" label="Social Buttons Title">top_bar_socials_title</custom-field>		
+		<custom-field action="translate" style="textarea" label="Additional Text Title">top_bar_additional_text_title</custom-field>
+		<custom-field action="translate" style="textarea" label="Additional Text">top_bar_additional_text</custom-field>
+		<custom-field action="translate" style="line" label="Mobile Menu Contacts Title">top_bar_contacts_title</custom-field>
+		<custom-field action="translate" style="line" label="Phone Title">top_bar_contacts_phone_title</custom-field>
+		<custom-field action="translate" style="line" label="Phone Number">top_bar_contacts_phone</custom-field>
+		<custom-field action="translate" style="line" label="Email Title">top_bar_contacts_email_title</custom-field>
+		<custom-field action="translate" style="line" label="Email Address">top_bar_contacts_email</custom-field>
+		<custom-field action="translate" style="line" label="Address Title">top_bar_contacts_address_title</custom-field>
+		<custom-field action="translate" style="line" label="Address">top_bar_contacts_address</custom-field>
+		<custom-field action="translate" style="line" label="Menu label">header_menu_label</custom-field>		
+		<custom-field action="translate" style="line" label="Header Callback Title">header_callback_title</custom-field>
+		<custom-field action="translate" style="line" label="Header Callback Text">header_callback_text</custom-field>
+		<custom-field action="translate" style="line" label="Header Button Text">header_button_text</custom-field>
+		<custom-field action="translate" style="line" label="Header Button Link">header_button_url</custom-field>
+		<custom-field action="translate" style="line" label="Additional Text">page_title_additional_text</custom-field>
+		<custom-field action="translate" style="line" label="Copyright Text">footer_copyright_text</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">aiero_project</custom-type>
+        <custom-type translate="1">aiero_team_member</custom-type>
+        <custom-type translate="1">aiero_service</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">aiero_project_category</taxonomy>
+        <taxonomy translate="1">aiero_team_department</taxonomy>
+        <taxonomy translate="1">aiero_services_category</taxonomy>
+        <taxonomy translate="1">aiero_services_tag</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="top_bar_additional_text_title" />
+        <key name="top_bar_socials_title" />        
+        <key name="top_bar_additional_text" />
+        <key name="top_bar_contacts_title" />
+        <key name="top_bar_contacts_phone_title" />
+        <key name="top_bar_contacts_phone" />
+        <key name="top_bar_contacts_email_title" />
+        <key name="top_bar_contacts_email" />
+        <key name="top_bar_contacts_address_title" />
+        <key name="top_bar_contacts_address" />
+        <key name="header_menu_label" />        
+        <key name="header_callback_title" />
+        <key name="header_button_text" />
+        <key name="header_button_url" />
+        <key name="page_title_additional_text" />
+        <key name="footer_copyright_text" />
+        <key name="post_page_title" />
+        <key name="recent_posts_section_heading" />
+        <key name="project_archive_page_title" />
+        <key name="project_single_page_title" />
+        <key name="team_archive_page_title" />
+        <key name="team_single_page_title" />
+        <key name="service_archive_page_title" />
+        <key name="service_single_page_title" />
+        <key name="error_title" />
+        <key name="error_text" />
+        <key name="error_button_text" />
+        <key name="woo_related_title" />
+        <key name="woo_upsells_title" />
+        <key name="woo_product_categories_title" />
+        <key name="woo_product_tags_title" />
+        <key name="woo_single_product_title" />
+    </admin-texts>
+    <elementor-widgets>
+    	<widget name="aiero_audio_listing">
+	      <conditions>
+	        <condition key="widgetType">aiero_audio_listing</condition>
+	      </conditions>
+	      <fields-in-item items_of="audio_items">
+	        <field type="Title" editor_type="LINE">item_title</field>
+	      </fields-in-item>
+	    </widget>
+    	<widget name="aiero_awards">
+	      <conditions>
+	        <condition key="widgetType">aiero_awards</condition>
+	      </conditions>
+	      <fields-in-item items_of="awards_list">
+	        <field type="Year" editor_type="LINE">year</field>
+	        <field type="Subtitle" editor_type="LINE">subtitle</field>
+	        <field type="Title" editor_type="VISUAL">title</field>
+	        <field type="Title Link" editor_type="LINK" key_of="title_link">url</field>
+	      </fields-in-item>
+	    </widget>
+	    <widget name="aiero_blog_listing">
+	      <conditions>
+	        <condition key="widgetType">aiero_blog_listing</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Button Text" editor_type="LINE">read_more_text</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_button">
+	      <conditions>
+	        <condition key="widgetType">aiero_button</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Button Text" editor_type="LINE">button_text</field>
+	        <field type="Button Link" editor_type="LINK" key_of="button_link">url</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_custom_menu">
+	      <conditions>
+	        <condition key="widgetType">aiero_custom_menu</condition>
+	      </conditions>
+	      <fields-in-item items_of="items">
+	        <field type="Navigation Label" editor_type="LINE">title</field>
+	        <field type="Link" editor_type="LINK" key_of="link">url</field>
+	      </fields-in-item>
+	    </widget>
+	    <widget name="aiero_gallery">
+	      <conditions>
+	        <condition key="widgetType">aiero_gallery</condition>
+	      </conditions>
+	      <fields-in-item items_of="gallery_items">
+	        <field type="Title" editor_type="LINE">item_title</field>
+	      </fields-in-item>
+	    </widget>
+    	<widget name="aiero_content_slider">
+	      <conditions>
+	        <condition key="widgetType">aiero_content_slider</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Video Button Text" editor_type="LINE">video_button_text</field>
+	        <field type="Slide Name" editor_type="LINE">slide_name</field>
+	      </fields>
+	      <fields-in-item items_of="content_items">
+	        <field type="Title" editor_type="VISUAL">heading</field>
+	        <field type="Subtitle" editor_type="LINE">subtitle</field>
+	        <field type="Promo Text" editor_type="VISUAL">text</field>
+	        <field type="Button Text" editor_type="LINE">button_text</field>
+	        <field type="Button Link" editor_type="LINK" key_of="button_link">url</field>
+	      </fields-in-item>
+	    </widget>
+	    <widget name="aiero_heading">
+	      <conditions>
+	        <condition key="widgetType">aiero_heading</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Heading" editor_type="VISUAL">heading</field>
+	        <field type="Subheading" editor_type="LINE">subtitle</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_icon_box">
+	      <conditions>
+	        <condition key="widgetType">aiero_icon_box</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Icon Box Title" editor_type="AREA">title</field>
+	        <field type="Icon Box Information" editor_type="VISUAL">info</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_image_carousel">
+	      <conditions>
+	        <condition key="widgetType">aiero_image_carousel</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Title" editor_type="VISUAL">title</field>
+	        <field type="Subheading" editor_type="LINE">subtitle</field>
+	      </fields>
+	      <fields-in-item items_of="carousel_items">
+	        <field type="Title" editor_type="LINE">item_title</field>
+	        <field type="Description" editor_type="VISUAL">item_description</field>
+	      </fields-in-item>
+	    </widget>
+	    <widget name="aiero_mailchimp">
+	      <conditions>
+	        <condition key="widgetType">aiero_mailchimp</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Title" editor_type="LINE">title</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_price_item">
+	      <conditions>
+	        <condition key="widgetType">aiero_price_item</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Title" editor_type="LINE">title</field>
+	        <field type="Label" editor_type="LINE">item_label</field>
+	        <field type="Short Description" editor_type="AREA">description</field>
+	        <field type="Currency" editor_type="LINE">currency</field>
+	        <field type="Price" editor_type="LINE">price</field>
+	        <field type="Period" editor_type="LINE">period</field>
+	        <field type="Button Text" editor_type="LINE">price_button_text</field>
+	        <field type="Button Link" editor_type="LINK" key_of="button_link">url</field>
+	      </fields>
+	      <fields-in-item items_of="custom_fields">
+	        <field type="Text" editor_type="LINE">text</field>
+	      </fields-in-item>
+	    </widget>
+	    <widget name="aiero_projects_listing">
+	      <conditions>
+	        <condition key="widgetType">aiero_projects_listing</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Title" editor_type="VISUAL">title</field>
+	        <field type="Subheading" editor_type="LINE">subtitle</field>
+	        <field type="Button Text" editor_type="LINE">button_text</field>
+	        <field type="Button Link" editor_type="LINK" key_of="button_link">url</field>
+	        <field type="Read More Text" editor_type="LINE">read_more_text</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_special_text">
+	      <conditions>
+	        <condition key="widgetType">aiero_special_text</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Text" editor_type="VISUAL">text</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_step_carousel">
+	      <conditions>
+	        <condition key="widgetType">aiero_step_carousel</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Title" editor_type="VISUAL">title</field>
+	        <field type="Subheading" editor_type="LINE">subtitle</field>
+	      </fields>
+	      <fields-in-item items_of="step_items">
+	        <field type="Step Number" editor_type="LINE">step_number</field>
+	        <field type="Title" editor_type="LINE">step_title</field>
+	        <field type="Description" editor_type="AREA">step_description</field>
+	      </fields-in-item>
+	    </widget>
+	    <widget name="aiero_testimonial_carousel">
+	      <conditions>
+	        <condition key="widgetType">aiero_testimonial_carousel</condition>
+	      </conditions>
+	      <fields-in-item items_of="testimonials_items">
+	        <field type="Testimonial Text" editor_type="VISUAL">testimonial</field>
+	        <field type="Author Name" editor_type="LINE">name</field>
+	        <field type="Author Position" editor_type="LINE">position</field>
+	      </fields-in-item>
+	    </widget>
+	    <widget name="aiero_video_button">
+	      <conditions>
+	        <condition key="widgetType">aiero_video_button</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Play Button Text" editor_type="LINE">button_text</field>
+	      </fields>
+	    </widget>
+	    <widget name="aiero_wpforms">
+	      <conditions>
+	        <condition key="widgetType">aiero_wpforms</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Title" editor_type="LINE">title</field>
+	      </fields>
+	    </widget>
+	    <widget name="image">
+	      <conditions>
+	        <condition key="widgetType">image</condition>
+	      </conditions>
+	      <fields>
+	        <field type="Title" editor_type="LINE">title</field>
+	        <field type="Subtitle" editor_type="LINE">subtitle</field>
+	      </fields>
+	    </widget>
+    </elementor-widgets>
+</wpml-config>
